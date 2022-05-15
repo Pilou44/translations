@@ -131,85 +131,85 @@ Cool.~00~@00146D0A@0014DF20@0014D5D0@0014F450@0014F40E
 ;00000A6F{It's pretty neat, I think.~00~}@00146D0E
 C'est plutôt chouette, je trouve.~00~@00146D0E
 ;00000A8A{Are you from around here?~00~}@00146C00
-Êtes-vous d'ici?~00~@00146C00
+Etes-vous d'ici?~00~@00146C00
 ;00000AA4{My people have been here for centuries.~00~}@00146C04
-Mi gente ha estado por aquí siglos.~00~@00146C04
+Mon peuple vit ici depuis des siècles~00~@00146C04
 ;00000ACC{Have you seen Uncle Blake?~00~}@00146D2C
-¿Has visto al Tío Blake?~00~@00146D2C
+Avez-vous vu oncle Blake ?~00~@00146D2C
 ;00000AE7{No, but I wish I knew where he was. I need my paycheck.~00~}@00146D30
-No, pero me gustaría. Necesito mi sueldo.~00~@00146D30
+Non, mais j'aimerais savoir où il est. J'ai besoin de mon salaire.~00~@00146D30
 ;00000B1F{I think it's all some kind of scam.~00~}@00146D50
-Creo que es algún tipo de timo.~00~@00146D50
+Je pense que c'est une sorte d'arnaque.~00~@00146D50
 ;00000B43{Aren't you scared of the ghost?~00~}@00146D3A
-¿Tienes miedo del fantasma?~00~@00146D3A
+Vous n'avez pas peur du fantôme ?~00~@00146D3A
 ;00000B63{Nope. I know a lot about my people's history, and I've never heard of this Ancient Chieftan character.~00~}@00146D3E
-No. Sé mucho sobre la historia de mi gente y nunca he oído hablar del tal Antiguo Jefe.~00~@00146D3E
+Non. J'en sais beaucoup sur l'histoire de mon peuple et je n'ai jamais entendu parler de cet Ancien Chef.~00~@00146D3E
 ;00000BCA{Well, gotta go.~00~}@00146D56
-Bueno, debo irme.~00~@00146D56
+Bien, allons-y.~00~@00146D56
 ;00000BDA{Check out time is eleven SHARP.~00~}@00146D5A
-El check out es a las once EN PUNTO.~00~@00146D5A
+L'heure de départ est onze heures PRECISES.~00~@00146D5A
 ;00000BFA{Bellhop~00~}@00146220
-Botones~00~@00146220
+Groom~00~@00146220
 ;00000C02{Fred~00~}@00146258
 Fred~00~@00146258
 ;00000C07{Velma~00~}@00146260
-Vilma~00~@00146260@00146378
+Véra~00~@00146260@00146378
 ;00000C0D{Daphne~00~}@00146268
-Daphne~00~@00146268
+Daphné~00~@00146268
 ;00000C14{Torches~00~}@00146288
-Antorchas~00~@00146270@00146288
+Torches~00~@00146270@00146288
 ;00000C1C{Villain~00~}@00146278@00146280
-Villano~00~@00146278@00146280
+Méchant~00~@00146278@00146280
 ;00000C24{It goes back to the tomb.~00~}@001480E8
-Vuelve a la tumba.~00~@001480E8
+Ca va au tombeau~00~@001480E8
 ;00000C3E{Passage~00~}@00146290@001462F8@00146300
-Túnel~00~@001462F8@00146300@00146290
+Passage~00~@001462F8@00146300@00146290
 ;00000C46{Zoinks! That must be worth a fortune!~00~}@0014810E
-¡Corcho! ¡Eso debe valer una fortuna!~00~@0014810E
+Mince ! Ça doit valoir une fortune !~00~@0014810E
 ;00000C6C{I wish! But I can't get through the bars.~00~}@0014811E
-¡Eso espero! Pero no puedo pasar por las barras.~00~@0014811E
+Je le souhaite! Mais je ne peux pas passer les barreaux.~00~@0014811E
 ;00000C97{Besides, I think it's probably evidence.~00~}@00148126
-Además, creo que seguramente son pruebas.~00~@00148126
+De plus, je pense que c'est probablement une preuve.~00~@00148126
 ;00000CC0{Gold~00~}@00146298
-Oro~00~@00146298
+Or~00~@00146298
 ;00000CC5{Gulp! Looks like at least somebody got out of the cuffs!~00~}@0014813C
-¡Glups! Parece que alguien se soltó las cadenas!~00~@0014813C
+Oups ! On dirait que quelqu'un s'est libéré de ses chaînes !~00~@0014813C
 ;00000CFE{Uh uh, man. NO WAY!~00~}@0014814C
-Oh oh, tío. ¡NI HABLAR!~00~@0014814C
+Oh oh, mec. PAS QUESTION !~00~@0014814C
 ;00000D12{Hand~00~}@000E1B16@001462A0
-Mano~00~@001462A0
+Main~00~@001462A0
 ;00000D17{Somebody here has NO sense of humor!~00~}@00148162
-¡Alguien NO tiene sentido del humor!~00~@00148162
+Quelqu'un ici n'a PAS le sens de l'humour.~00~@00148162
 ;00000D3C{It's sort of DESIGNED not to move very far, man.~00~}@00148172
-Está DISEÑADO para no ir muy lejos, tío.~00~@00148172
+C'est en quelque sorte CONÇU pour ne pas aller très loin, mec.~00~@00148172
 ;00000D6D{Cuffs~00~}@001462A8
-Cadenas~00~@001462A8
+Menottes~00~@001462A8
 ;00000D73{I think I hear something down there!~00~}@00148188
-¡Creo que he oído algo ahí abajo!~00~@00148188
+Je crois que j'entends quelque chose là-bas !~00~@00148188
 ;00000D98{The walls are too slippery. I'd fall and splatter if I tried that!~00~}@00148198
-Las paredes son resbaladizas. ¡Me caería y salpicaría si lo intentara!~00~@00148198
+Les murs sont trop glissants. Je tomberais et éclabousserais si j'essayais ça !~00~@00148198
 ;00000DDC{Hole~00~}@001462B0
-Agujero~00~@001462B0
+Trou~00~@001462B0
 ;00000DE1{It's the rope we used to climb down here.~00~}@001481AE
-Es la cuerda que usamos para bajar.~00~@001481AE
+C'est la corde qu'on utilisait pour descendre ici.~00~@001481AE
 ;00000E0B{It's tied up top, remember? I can't get it loose from down here.~00~}@001481BE
-Está atado arriba, ¿recuerdas? No puedo soltarlo desde aquí.~00~@001481BE
+C'est attaché en haut, tu te souviens ? Je ne peux pas le détacher d'ici.~00~@001481BE
 ;00000E4D{Besides, how would we get out if I moved it?~00~}@001481C6
-Además, ¿Cómo saldríamos si lo moviera?~00~@001481C6
+D'ailleurs, comment sortirions-nous si je le déplaçais ?~00~@001481C6
 ;00000E7A{Rope~00~}@001462B8???@00146738
-Cuerda~00~@001462B8@00146738
+Corde~00~@001462B8@00146738
 ;00000E7F{It's Uncle Blake.~00~}@00148246
-Es el Tío Blake.~00~@00148246
+C'est oncle Blake.~00~@00148246
 ;00000E91{I was working in the office, and someone hit me.~00~}@00148282
-Trabajaba en la oficina y alguien me golpeó.~00~@00148282
+Je travaillais au bureau et quelqu'un m'a frappé.~00~@00148282
 ;00000EC2{Next thing I knew, here I was.~00~}@00148290
-Lo siguiente que supe era que aquí estaba.~00~@00148290
+A mon réveil, j'étais là.~00~@00148290
 ;00000EE1{Can you get me out of here?~00~}@0014829E
-¿Puedes sacarme de aquí?~00~@0014829E
+Pouvez-vous me sortir d'ici?~00~@0014829E
 ;00000EFD{How'd you get down here?~00~}@0014826C
-¡Cómo has llegado aquí abajo?~00~@0014826C
+Comment êtes-vous descendu ici ?~00~@0014826C
 ;00000F16{Not sure.~00~}@00148270
-No estoy seguro.~00~@00148270
+Je ne sais pas.~00~@00148270
 ;00000F20{Don't worry, Uncle Blake. I'll get you out as soon as I can!~00~}@001482A4
 No te preocupes, Tío Blake. ¡Te sacaré de aquí cuanto antes!~00~@001482A4
 ;00000F5D{Thanks, son! I know I can count on you!~00~}@001482A8
