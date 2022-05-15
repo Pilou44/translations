@@ -81,57 +81,57 @@ Le cuisinier l'a vu de l'autre côté de la rivière hier.~00~@0014FAEA
 ;000006E6{Come on, guys. Let's check out that area.~00~}@0014FAF8
 Allez les gars. Examinons ce domaine.~00~@0014FAF8
 ;00000710{Not me! I'm not going anywhere near any ghosts. I'm going to hit room service.~00~}@0014FB6C
-¡Yo no! No me acerco a fantasmas. Voy a darle al servicio de habitaciones.~00~@0014FB6C
+Pas moi ! Je ne vais nulle part près des fantômes. Je vais appeler le service de chambre.~00~@0014FB6C
 ;0000075F{Sorry, son, but the staff all quit last week.~00~}@0014FB7A
-Lo siento hijo, pero todo el personal se fue la semana pasada.~00~@0014FB7A
+Désolé, fiston, mais tout le personnel a démissionné la semaine dernière.~00~@0014FB7A
 ;0000078D{The only ones who stayed were the cook and the gardener.~00~}@0014FB88
-Los únicos que se han quedado son el cocinero y el jardinero.~00~@0014FB88
+Seuls le cuisinier et le jardinier sont restés.~00~@0014FB88
 ;000007C6{If you talk to the cook nicely,maybe he'll make you something to eat.~00~}@0014FB96
-Si eres agradable con el cocinero, puede que te haga algo de comer.~00~@0014FB96
+Si vous parlez gentiment au cuisinier, peut-être qu'il vous préparera quelque chose à manger.~00~@0014FB96
 ;0000080C{Let's move inside where it's warm, hmm?.~00~}@0014FBA8
-Vayamos dentro donde se está calentito, ¿Eh?.~00~@0014FBA8
+Allons à l'intérieur où il fait chaud, hmm ?~00~@0014FBA8
 ;00000835{Make yourselves at home. I have some work to do~00~}@0014FBFA
-Como si estuvierais en casa. Tengo trabajo que hacer.~00~@0014FBFA
+Faites comme chez vous. J'ai du travail à faire.~00~@0014FBFA
 ;00000866{ ~00~}@00146608
 ~00~@00146608
 ;00000868{Ancient Chieftan~00~}@00146218@00146380
-Antiguo Jefe~00~@00146218@00146380
+Ancien Chef~00~@00146218@00146380
 ;00000879{Excuse me...~00~}@00146BEC
-Perdone...~00~@00146BEC
+Excusez-moi...~00~@00146BEC
 ;00000886{Yes?~00~}@00146BFA
-¿Sí?~00~@00146BFA
+Oui ?~00~@00146BFA
 ;0000088B{I've studied our history a lot, and I collect ancient artifacts, too.~00~}@00146C24
-He estudiado mucho nuestra historia y colecciono artefactos antiguos también.~00~@00146C24
+J'ai beaucoup étudié notre histoire et je collectionne aussi des artefacts anciens.~00~@00146C24
 ;000008D1{Like that kachina doll you're carrying. Want to trade?~00~}@00146C42
-Como esa muñeca kachina que llevas. ¿La cambias?~00~@00146C42
+Comme cette poupée kachina que tu portes. Tu veux l'échanger?~00~@00146C42
 ;00000909{I have an extra one in my collection.~00~}@00146C5E
-Tengo una de sobra en mi colección.~00~@00146C5E
+J'en ai une autre dans ma collection.~00~@00146C5E
 ;0000092F{It's very nice. And I would be most grateful.~00~}@00146C6C
-Es muy chula. Y estaría muy agradecido.~00~@00146C6C
+C'est très gentil. Et je serais très reconnaissant.~00~@00146C6C
 ;0000095E{What do I get for it?~00~}@00146C48
-¿Qué consigo por ella?~00~@00146C48
+Que me donnez-vous en échange ?~00~@00146C48
 ;00000974{I'll trade a ceremonial goblet.~00~}@00146C4C
-Te daré una copa ceremonial.~00~@00146C4C
+Je t'échange un gobelet de cérémonie.~00~@00146C4C
 ;00000994{Many thanks, friend!~00~}@0014EF78@00146CEE
-¡Gracias amigo!~00~@0014EF78@00146CEE
+Merci beaucoup, mon ami!~00~@0014EF78@00146CEE
 ;000009A9{Cool! I'll trade!~00~}@00146C72
-¡Mola! ¡Lo cambio!~00~@00146C72
+Cool ! Je vais échanger !~00~@00146C72
 ;000009BC{You will not regret this, I promise you!~00~}@00146C76@0014EF04
-No te arrepentirás, ¡te lo prometo!~00~@00146C76@0014EF04
+Vous ne le regretterez pas, je vous le promets !~00~@00146C76@0014EF04
 ;000009E5{No way! My doll is better!~00~}@00146CF8
-¡Ni hablar! ¡Mi muñeca es mejor!~00~@00146CF8
+Non ! Je préfère ma poupée !~00~@00146CF8
 ;00000A01{Suit yourself. You're the one trying to finish this game, not me!~00~}@00146CFC
-Como quieras. Tu eres el que intenta terminar este juego, ¡no yo!~00~@00146CFC
+Comme tu veux. C'est toi qui essaies de finir ce jeu, pas moi !~00~@00146CFC
 ;00000A44{How do you know that?~00~}@00146C0E
-¿Cómo sabes eso?~00~@00146C0E
+Comment savez-vous ça ?~00~@00146C0E
 ;00000A5A{It's my hobby.~00~}@00146C12
-Es mi hobby.~00~@00146C12
+C'est mon hobby.~00~@00146C12
 ;00000A69{Cool.~00~}@00146D0A@0014DF20@0014DEDE@0014D612
-Mola.~00~@00146D0A@0014DF20@0014D5D0@0014F450@0014F40E
+Cool.~00~@00146D0A@0014DF20@0014D5D0@0014F450@0014F40E
 ;00000A6F{It's pretty neat, I think.~00~}@00146D0E
-Es bastante chula, creo.~00~@00146D0E
+C'est plutôt chouette, je trouve.~00~@00146D0E
 ;00000A8A{Are you from around here?~00~}@00146C00
-¿Eres de por aquí?~00~@00146C00
+Êtes-vous d'ici?~00~@00146C00
 ;00000AA4{My people have been here for centuries.~00~}@00146C04
 Mi gente ha estado por aquí siglos.~00~@00146C04
 ;00000ACC{Have you seen Uncle Blake?~00~}@00146D2C
