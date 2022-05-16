@@ -849,215 +849,215 @@ Qu'est-ce tu veux, gamin ?~00~@0014D816
 ;000033FD{Hey, get outtah here! Employees only!~00~}@0014D836
 Hé, sortez d'ici ! Employés seulement !~00~@0014D836
 ;00003424{S-s-sorry!~00~}@0014D83E
-¡Lo s-siento!~00~@0014D83E
+D-d-désolé !~00~@0014D83E
 ;0000342F{Can't you just make us a quick hamburger?~00~}@0014D852
-¿No puedes hacernos una hamburguesa rápida?~00~@0014D852
+Vous ne pouvez pas nous faire un hamburger rapide ?~00~@0014D852
 ;00003459{I'll make you INTO a hamburger if you don't stop bothering me!~00~}@0014D856
-¡Te convertiré EN una hamburguesa si no dejas de molestarme!~00~@0014D856
+Je vais te transformer en hamburger si tu n'arrêtes pas de m'embêter !~00~@0014D856
 ;00003498{I NEED a pizza fix real soon!~00~}@0014D860
-¡NECESITO un arreglo en pizza!~00~@0014D860
+J'AI BESOIN d'une dose de pizza !~00~@0014D860
 ;000034B6{You're gonna need a body fix real soon!~00~}@0014D864
-¡Necesitarás un arreglo de cuerpo muy pronto!~00~@0014D864
+Vous aurez besoin d'une réparation corporelle très bientôt !~00~@0014D864
 ;000034DE{Nah, you guys don't need any food.~00~}@0014D884
-Nah, no necesitáis comida.~00~@0014D884
+Non, vous n'avez pas besoin de nourriture.~00~@0014D884
 ;00003501{Some cook you are, leaving poor kids to starve!~00~}@0014D86E
-¡Vaya cocinero, dejándonos morir de hambre!~00~@0014D86E
+Quel cuisinier, nous laissant mourir de faim !~00~@0014D86E
 ;00003531{Well..~00~}@0014D872
-Bueno...~00~@0014D872
+Bien...~00~@0014D872
 ;00003538{Hey, where's the chow?~00~}@0014D844
-Oye, ¿dónde está la comida?~00~@0014D844
+Hey, où est la bouffe ?~00~@0014D844
 ;0000354F{You kids look well fed. Buzz off.~00~}@0014D848
-Parecéis bien alimentados. Largo.~00~@0014D848
+Vous semblez bien nourris. Décampez.~00~@0014D848
 ;00003572{Forget it.~00~}@0014D88E
-Olvídalo.~00~@0014D88E
+Oubliez ça.~00~@0014D88E
 ;0000357D{And don't come back!~00~}@0014D892
-¡Y no vuelvas!~00~@0014D892
+Et ne revenez pas !~00~@0014D892
 ;00003592{The Cook~00~}@001465D8
-El Cocinero~00~@001465D8
+Le cuisinier~00~@001465D8
 ;0000359B{A cabinet is a cabinet is a cabinet.~00~}@0014D8B6
-Un armario es un armario.~00~@0014D8B6
+Un placard est un placard.~00~@0014D8B6
 ;000035C0{Cabinet~00~}@000C650D@001465E0
-Armario~00~@001465E0
+Placard~00~@001465E0
 ;000035C8{Good for opening cans of all types.~00~}@0014D9A0
-Abre latas de todos los tipos.~00~@0014D9A0
+Bon pour ouvrir des boîtes de tous types.~00~@0014D9A0
 ;000035EC{Slurp!~00~}@0014D9E0
-¡Ñam!~00~@0014D9E0
+Slurp !~00~@0014D9E0
 ;000035F3{Poor chili never had a chance!~00~}@0014D9E8
-¡Pobre chili, no tuvo oportunidad!~00~@0014D9E8
+Le pauvre piment n'a jamais eu de chance !~00~@0014D9E8
 ;00003612{Can Opener~00~}@001465E8
-Abrelatas~00~@001465E8
+Ouvre-boîte~00~@001465E8
 ;0000361D{Where's the ON switch?~00~}@0014DA0E
-¿Dónde está el encendido?~00~@0014DA0E
+Où est l'interrupteur ?~00~@0014DA0E
 ;00003634{I can't reach it from this side.~00~}@0014DA2E@0014DA3E
-No lo alcanzo desde este lado.~00~@0014DA2E
+Je ne peux pas l'atteindre de ce côté.~00~@0014DA2E
 ;00003655{Snooping is one thing, but that's a little too close to stealing for me.~00~}@0014DA4E
-Fisgonear es una cosa, pero eso se acerca demasiado a robar para mí.~00~@0014DA4E
+L'espionnage est une chose, mais c'est un peu trop proche du vol pour moi.~00~@0014DA4E
 ;0000369E{Cash Register~00~}@001465F0
-Caja Registradora~00~@001465F0
+Caisse enregistreuse~00~@001465F0
 ;000036AC{MondoLok Lock company.~00~}@0014DA74
-Compañía de candados MondoLok.~00~@0014DA74
+Société de cadenas MondoLok.~00~@0014DA74
 ;000036C3{That cook will chop me to pieces if I go back there.~00~}@0014DA94
-El cocinero me cortará en trocitos si vuelvo.~00~@0014DA94
+Ce cuisinier me coupera en morceaux si je retourne là-bas.~00~@0014DA94
 ;000036F8{Click~00~}@0014DAF0
-Clic~00~@0014DAF0
+Click~00~@0014DAF0
 ;000036FE{That's got it!~00~}@0014DAF8
-¡Eso es!~00~@0014DAF8
+C'est compris !~00~@0014DAF8
 ;0000370D{Key~00~}@001465F8
-Llave~00~@001465F8
+Clé~00~@001465F8
 ;00003711{Hmm, this goes to the kitchen. Yum!~00~}@0014DB0E
-Uhm, esto lleva a la cocina. ¡Ñam!~00~@0014DB0E
+Hmm, ça va à la cuisine. Miam !~00~@0014DB0E
 ;00003736{HEY!~00~}@0014DB40@0014DBEE
-¡EH!~00~@0014DB40
+HEY !~00~@0014DB40
 ;0000373B{You can't go in there! Employees only. Now scram.~00~}@0014DB5A
-¡No puedes entrar ahí! Solo empleados. Ahora largo.~00~@0014DB5A
+Vous ne pouvez pas entrer ! Employés seulement. Maintenant filez.~00~@0014DB5A
 ;0000376E{No way! The cook is in there!~00~}@0014DB72
-¡Ni hablar! ¡Ahí está el cocinero!~00~@0014DB72
+Pas question ! Le cuisinier est là-dedans !~00~@0014DB72
 ;0000378D{You can't go back there! Employees only! Beat it!~00~}@0014DC08
-¡No puedes volver ahí! ¡Solo empleados! ¡Supéralo!~00~@0014DC08
+Vous ne pouvez pas y retourner ! Employés seulement !~00~@0014DC08
 ;000037C0{Looks suspicious to me.~00~}@0014DC1E
-Me parece sospechosa.~00~@0014DC1E
+Ca m'a l'air suspect.~00~@0014DC1E
 ;000037D8{Lamp~00~}@00146610
-Lámpara~00~@00146610
+Lampe~00~@00146610
 ;000037DD{I didn't know they still made old radios like this!~00~}@0014DC34
-¡No sabía que aún hacían radios viejas como ésta!~00~@0014DC34
+Je ne savais pas qu'ils fabriquaient encore de vieilles radios comme celle-ci !~00~@0014DC34
 ;00003811{It's already turned that way.~00~}@0014DCAE@0014DD30
-Ya está en esa dirección.~00~@0014DCAE@0014DD30
+C'est déjà dans cette direction.~00~@0014DCAE@0014DD30
 ;0000382F{I can't reach the battery compartment from here.~00~}@0014DD62@0014DDE6
-No alcanzo el compartimento de pilas desde aquí.~00~@0014DD62@0014DDE6
+Je ne peux pas atteindre le compartiment à piles d'ici.~00~@0014DD62@0014DDE6
 ;00003860{Radio~00~}@00146618
 Radio~00~@00146618
 ;00003866{Battery Compartment~00~}@00146620
-Compartimento de Pilas~00~@00146620
+Compartiment à piles~00~@00146620
 ;0000387A{DuraReady MegaVolt (TM) Energy Cell. Cool.~00~}@0014DE54
-Célula Energética DuraReady MegaVolt (TM). Mola.~00~@0014DE54
+Pile DuraReady MegaVolt (TM). Cool.~00~@0014DE54
 ;000038A6{Battery~00~}@00146628
-Pila~00~@00146628
+Pile~00~@00146628
 ;000038AE{Back to the lobby.~00~}@0014DF78
-Vuelta al vestíbulo.~00~@0014DF78
+Retour au hall.~00~@0014DF78
 ;000038C1{Olive oil. Wonder if it's okay to drink?~00~}@0014DFD0
-Aceite de oliva. ¿Podría bebérmelo?~00~@0014DFD0
+Huile d'olive. Pourrais-je le boire ?~00~@0014DFD0
 ;000038EB{Bottle of Oil~00~}@00146638
-Botella de Aceite~00~@00146638
+Bouteille d'huile~00~@00146638
 ;000038F9{Scooby~00~}@00146640
 Scooby~00~@00146640
 ;00003900{Looks like a trap door.~00~}@0014E054
-Parece una trampilla.~00~@0014E054
+On dirait une trappe.~00~@0014E054
 ;00003918{Craftsdude! This is a sturdy screwdriver, alright.~00~}@0014E06A
-¡Artesanía! Un destornillador robusto, perfecto.~00~@0014E06A
+Artisanat ! Un tournevis robuste, parfait.~00~@0014E06A
 ;0000394C{Screwdriver~00~}@00146650
-Destornillador~00~@00146650
+Tournevis~00~@00146650
 ;00003958{Stairs are stairs, dude.~00~}@0014E122@0014E156
-Las escaleras son escaleras, tío.~00~@0014E122@0014E156
+Les escaliers sont des escaliers, mec.~00~@0014E122@0014E156
 ;00003971{Zoinks! A trap door! That must be how they got Uncle Blake!~00~}@0014E140
-¡Corcho! ¡Una trampilla! ¡Así debieron coger a Tío Blake!~00~@0014E140
+Mince ! Une trappe ! C'est sans doute comme ça qu'ils ont eu Oncle Blake !~00~@0014E140
 ;000039AD{Looks creepy to me!~00~}@0014E17C
-¡Me parece siniestro!~00~@0014E17C
+Ca m'a l'air effrayant !~00~@0014E17C
 ;000039C1{Secret Door~00~}@00146668
-Puerta Secreta~00~@00146668
+Porte secrète~00~@00146668
 ;000039CD{Pretty beat up. I bet if we push it...nah, skip it.~00~}@0014E1CA
-Bastante tocado. Igual si lo empujo...nah, paso.~00~@0014E1CA
+Bien amoché. Je parie que si nous le poussons... non, je passe.~00~@0014E1CA
 ;00003A02{Locker~00~}@00146670
-Armario~00~@00146670
+Casier~00~@00146670
 ;00003A09{A rack with bottles in it.~00~}@0014E2A0
-Un estante con botellas.~00~@0014E2A0
+Une étagère avec des bouteilles.~00~@0014E2A0
 ;00003A24{Rack~00~}@00146678
-Estante~00~@00146678
+Etagère~00~@00146678
 ;00003A29{Hook~00~}@00146680
-Gancho~00~@00146680
+Crochet~00~@00146680
 ;00003A2E{This runs the mine cars.~00~}@0014E2BC
-Esto lleva los carros de mina.~00~@0014E2BC
+Cela fait fonctionner les wagonnets de la mine..~00~@0014E2BC
 ;00003A47{Engine~00~}@00146688
-Motor~00~@00146688
+Moteur~00~@00146688
 ;00003A4E{Perfect for transporting liquids of all kinds.~00~}@0014E2D2
-Perfecto para transportar todo tipo de líquidos.~00~@0014E2D2
+Parfait pour transporter des liquides de toutes sortes.~00~@0014E2D2
 ;00003A7D{Like, I already did that, man.~00~}@0014E3DE
-Ya he hecho eso, tío.~00~@0014E3DE
+Genre, j'ai déjà fait ça, mec.~00~@0014E3DE
 ;00003A9C{That's an idea, but the gas will spill if I do that.~00~}@0014E3E6
-Es una idea, pero se derramaría.~00~@0014E3E6
+C'est une idée, mais le gaz va se renverser si je fais ça.~00~@0014E3E6
 ;00003AD1{I need to figure out what to do with the other end first.~00~}@0014E3EE
-Necesito saber qué hacer con el otro lado primero.~00~@0014E3EE
+Je dois d'abord savoir quoi faire avec l'autre extrémité.~00~@0014E3EE
 ;00003B0B{Hose~00~}@00146690
-Manguera~00~@00146690
+Tuyau~00~@00146690
 ;00003B10{Good for starting things.~00~}@0014E472
-Bueno para iniciar cosas.~00~@0014E472
+Bon pour commencer les choses.~00~@0014E472
 ;00003B2A{Switch~00~}@00146698
-Interruptor~00~@00146698
+Interrupteur~00~@00146698
 ;00003B31{Liquid petrolium product.~00~}@0014E4FC
-Producto de petróleo líquido.~00~@0014E4FC
+Produit pétrolier liquide.~00~@0014E4FC
 ;00003B4B{Gas~00~}@001466A0
-Gasolina~00~@001466A0
+Essence~00~@001466A0
 ;00003B4F{This goes to the mine, I guess.~00~}@0014E512
-Va a la mina, supongo.~00~@0014E512
+Ca va à la mine, je suppose.~00~@0014E512
 ;00003B6F{Exit~00~}@001466A8@001466E0@001466F0@001466F8
-Salida~00~@001466A8@001466E0@001466F0@001466F8
+Sortie~00~@001466A8@001466E0@001466F0@001466F8
 ;00003B74{Stone Path~00~}@001466B0@001466C8
-Camino de Piedras~00~@001466B0@001466C8
+Chemin de pierre~00~@001466B0@001466C8
 ;00003B7F{Ack! It's awful!~00~}@0014E556
-¡Eks! ¡Horrible!~00~@0014E556
+Ah ! C'est affreux!~00~@0014E556
 ;00003B91{Pungeant Pond~00~}@001466B8@001466C0
-Estanque Cáustico~00~@001466B8@001466C0
+Etang caustique~00~@001466B8@001466C0
 ;00003B9F{It's pretty dark in there.~00~}@0014E588
-Ahí está bastante oscuro.~00~@0014E588
+C'est plutot sombre là-dedans.~00~@0014E588
 ;00003BBA{Looks sturdy enough.~00~}@0014E5C6
-Parece resistente.~00~@0014E5C6
+Ca a l'air assez solide.~00~@0014E5C6
 ;00003BCF{The smell is just too bad!~00~}@0014E5F0
-¡El olor es repugnante!~00~@0014E5F0
+L'odeur est trop mauvaise !~00~@0014E5F0
 ;00003BEA{Stone Bridge~00~}@001466D8
-Puente de Piedra~00~@001466D8
+Pont de pierre~00~@001466D8
 ;00003BF7{No way am I going any further. I can't see a thing!~00~}@0014E61C
-Ni de broma voy más allá. ¡No veo nada!~00~@0014E61C
+Pas question que j'aille plus loin. Je ne vois rien !~00~@0014E61C
 ;00003C2C{Darkness!~00~}@001466E8
-¡Oscuridad!~00~@001466E8
+Obscurité !~00~@001466E8
 ;00003C36{I can't read a word of it!~00~}@0014E666
-¡No puedo leer ni una palabra!~00~@0014E666
+Je ne peux pas en lire un mot !~00~@0014E666
 ;00003C51{Ancient Writing~00~}@00146700
-Escritura Antigua~00~@00146700
+Ecriture ancienne~00~@00146700
 ;00003C61{It goes back to the temple.~00~}@0014E67C
-Vuelve hacia el templo.~00~@0014E67C
+Ca remonte au temple.~00~@0014E67C
 ;00003C7D{That maze sure was easier the second time!~00~}@0014E6B0
-¡El laberinto fue más fácil la segunda vez!~00~@0014E6B0
+Ce labyrinthe était plus facile la deuxième fois !~00~@0014E6B0
 ;00003CA8{Nobody home, I guess.~00~}@0014E6D6
-No hay nadie, supongo.~00~@0014E6D6
+Il n'y a personne, je suppose.~00~@0014E6D6
 ;00003CBE{I wonder if anyone is inside?~00~}@0014E6DE
-¿Me pregunto si hay alguien dentro?~00~@0014E6DE
+Je me demande si quelqu'un est à l'intérieur~00~@0014E6DE
 ;00003CDC{Tomb~00~}@00146710
-Tumba~00~@00146710
+Tombeau~00~@00146710
 ;00003CE1{It's made out of gold. I bet it's really valuable.~00~}@0014E6F4
-Está hecho de oro. Apuesto a que es muy valioso.~00~@0014E6F4
+C'est fait d'or. Je parie que c'est vraiment précieux.~00~@0014E6F4
 ;00003D14{Let's see who this rascal is!~00~}@0014E8B4
-¡Veamos quien es el bribón!~00~@0014E8B4
+Voyons qui est ce coquin !~00~@0014E8B4
 ;00003D32{Jim the Gardener!~00~}@0014E8CC
-¡Jim el jardinero!~00~@0014E8CC
+Jim le jardinier !~00~@0014E8CC
 ;00003D44{We found the glowing paint he was using.~00~}@0014E8F6
-Encontramos la pintura brillante que usaba.~00~@0014E8F6
+Nous avons trouvé la peinture brillante qu'il utilisait.~00~@0014E8F6
 ;00003D6D{And he's not the only one involved.~00~}@0014E914
-Y no es el único involucrado.~00~@0014E914
+Et il n'est pas le seul impliqué.~00~@0014E914
 ;00003D91{Yeah! Like, we saw the cook with him through the peep hole! We heard everything!~00~}@0014E91C
-¡Sí! ¡Vimos al cocinero con él a través de la mirilla! ¡Lo escuchamos todo!~00~@0014E91C
+Ouais! Nous avons vu le cuisinier avec lui à travers le judas ! Nous avons tout entendu !~00~@0014E91C
 ;00003DE4{Tribal Police. You're under arrest!~00~}@0014E93E
-Policía Tribal. ¡Estáis arrestados!~00~@0014E93E
+Police tribale. Vous êtes en état d'arrestation!~00~@0014E93E
 ;00003E09{You kids did great! You should come and work for me.~00~}@0014E974
-¡Lo hicisteis genial chicos! Deberíais venir a trabajar para mí.~00~@0014E974
+Vous avez été géniaux ! Vous devriez venir travailler pour moi.~00~@0014E974
 ;00003E3F{Like, thanks but no thanks, man. I've had enough.~00~}@0014E97C
-Pues, gracias pero no, tío. He tenido suficiente.~00~@0014E97C
+Merci mais non merci, mec. J'en ai eu assez.~00~@0014E97C
 ;00003E72{Besides, we still have skiing to do!~00~}@0014E98A
-¡Además aún tenemos que esquiar!~00~@0014E98A
+En plus, nous devons encore skier !~00~@0014E98A
 ;00003E97{Scooby Doo!~00~}@0014E99C
-¡Scooby Doo!~00~@0014E99C
+Scooby Doo !~00~@0014E99C
 ;00003EA3{Medallion~00~}@00146718
-Medallón~00~@00146718
+Médaillon~00~@00146718
 ;00003EAD{I think this thing is pretty old.~00~}@0014E9E2
-Creo que esta cosa es bastante vieja.~00~@0014E9E2
+Je pense que ce truc est assez ancien.~00~@0014E9E2
 ;00003ECF{Why am I talking to a rock?~00~}@0014EA30
-¿Por qué le hablo a una roca?~00~@0014EA30
+Pourquoi est-ce que je parle à un rocher ?~00~@0014EA30
 ;00003EEB{Um, Mr Statue?~00~}@0014EA20
-¿Um, Sr. Estatua?~00~@0014EA20
+Euh, Monsieur Statue ?~00~@0014EA20
 ;00003EFA{Abracadabra!~00~}@0014EA3A
-¡Abracadabra!~00~@0014EA3A
+Abracadabra !~00~@0014EA3A
 ;00003F07{Shazam!~00~}@0014EA48
-¡Shazam!~00~@0014EA48
+Shazam !~00~@0014EA48
 ;00003F0F{Hokus Pokus!~00~}@0014EA56
-¡Hokus Pokus!~00~@0014EA56
+Hokus Pokus !~00~@0014EA56
 ;00003F1C{Zoinks! Who said that?~00~}@0014EA78
 ¡Corcho! ¿Quién dijo eso?~00~@0014EA78
 ;00003F34{Something's happening over here!~00~}@0014EAC2
