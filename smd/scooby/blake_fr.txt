@@ -5,7 +5,7 @@ Hé, où es-tu allé ?~00~@00146A6A
 ;00000016{I made you a sandwich, but you were gone, so I ate it.~00~}@00146A78
 Je t'ai fait un sandwich, mais tu étais parti, alors je l'ai mangé.~00~@00146A78
 ;0000004D{Uncle Blake is GONE!~00~}@00146AE6
-Oncle Blake est PARTI  !~00~@00146AE6
+Oncle Blake est PARTI !~00~@00146AE6
 ;00000062{This is quite interesting!~00~}@00146B90
 C'est assez intéressant !~00~@00146B90
 ;0000007D{It was really nice of your Uncle Blake to let us spend the weekend at his hotel, Daphne.~00~}@0014F636
