@@ -749,105 +749,105 @@ Voici les instructions pour y accéder.~00~@0014CCAC
 ;00002ECA{Got it. Now get rid of that before someone sees it.~00~}@0014CCDA
 Compris. Maintenant, débarrassez-vous de ça avant que quelqu'un ne le voie.~00~@0014CCDA
 ;00002EFF{No one will ever see it now!~00~}@0014CD16
-¡Ahora nadie lo verá!~00~@0014CD16
+Personne ne le verra plus maintenant !~00~@0014CD16
 ;00002F1C{We have to get that note and find Uncle Blake, Scoob!~00~}@0014CD22
-¡Debemos conseguir esa nota y encontrar a Tío Blake, Scoob!~00~@0014CD22
+Nous devons obtenir cette note et trouver oncle Blake, Scoob !~00~@0014CD22
 ;00002F52{Reh!~00~}@0014CD2A
-¡Reh!~00~@0014CD2A
+Reh !~00~@0014CD2A
 ;00002F57{Peephole~00~}@00146570
-Mirilla~00~@00146570
+Judas~00~@00146570
 ;00002F60{Stove~00~}@00146578@00146580
-Horno~00~@00146578@00146580
+Four~00~@00146578@00146580
 ;00002F66{It's an old wood burning stove.~00~}@0014CE20
-Es un viejo horno de madera.~00~@0014CE20
+C'est un vieux poêle à bois.~00~@0014CE20
 ;00002F86{Like, there's no wood, no matches.~00~}@0014CE30
-No hay madera, ni cerillas...~00~@0014CE30
+Pas de bois, pas d'allumettes...~00~@0014CE30
 ;00002FA9{Besides, I don't have a clue how to run it.~00~}@0014CE38
-Además, no sé cómo hacerlo funcionar.~00~@0014CE38
+De plus, je ne sais pas comment le faire fonctionner.~00~@0014CE38
 ;00002FD5{Even a swinging one.~00~}@0014CE56
-Incluso una de vaivén.~00~@0014CE56
+Même une balançoire.~00~@0014CE56
 ;00002FEA{What!? How did you...!~00~}@0014CEC6
-¿¡Qué!? ¡Cómo has...!~00~@0014CEC6
+Quoi !? Comment as-tu...!~00~@0014CEC6
 ;00003002{You two get outtah here before I get really MAD!~00~}@0014CED4
-¡Iros de aquí antes de que me ponga muy FURIOSO!~00~@0014CED4
+Vous deux sortez d'ici avant que je devienne vraiment FOU !~00~@0014CED4
 ;00003033{Kitchen Door~00~}@00146588
-Puerta de la Cocina~00~@00146588
+Porte de la cuisine~00~@00146588
 ;00003040{Ten thousand watts of mega crisping power!~00~}@0014CEEA
-¡Diez mil vatios de potencia crujiente!~00~@0014CEEA
+Dix mille watts de méga puissance croustillante !~00~@0014CEEA
 ;0000306B{Betcha could toast a few marshmellows in there, huh?~00~}@0014CEF2
-Apuesto a que podría tostar unos marshmellows, ¿Eh?~00~@0014CEF2
+Je parie qu'on pourrait griller quelques guimauves là-dedans, hein ?~00~@0014CEF2
 ;000030A0{It's already open, dude!~00~}@00146424@0014CF7C@0014D462
-¡Ya está abierto, tío!~00~@0014CF7C@0014D462
+C'est déjà ouvert, mec !~00~@0014CF7C@0014D462
 ;000030B9{It's already closed, dude!~00~}@0014CFFC
-¡Ya está cerrado, tío!~00~@0014CFFC
+C'est déjà fermé, mec !~00~@0014CFFC
 ;000030D4{Microwave~00~}@00146590
-Microondas~00~@00146590
+Four micro onde~00~@00146590
 ;000030DE{There's a bell inside this block of ice.~00~}@0014D0E6
-Hay una campana en este bloque de hielo.~00~@0014D0E6
+Il y a une cloche à l'intérieur de ce bloc de glace.~00~@0014D0E6
 ;00003107{Frozen Bell~00~}@00146598
-Campana Congelada~00~@00146598
+Cloche gelée~00~@00146598
 ;00003113{'To Bessie on graduation day.' Weird.~00~}@0014D1B8
-'Para Bessie en el día de su graduación.' Raro.~00~@0014D1B8
+'A Bessie le jour de la remise des diplômes.' Bizarre.~00~@0014D1B8
 ;00003139{Yes? May I help you?~00~}@0014D21C
-¿Sí? ¿Puedo ayudarle?~00~@0014D21C
+Oui ? Puis-je vous aider ?~00~@0014D21C
 ;0000314E{Nothing.~00~}@0014D224
-Nada.~00~@0014D224
+Rien.~00~@0014D224
 ;00003157{Cow Bell~00~}@001465A0
-Cencerro~00~@001465A0
+Cloche de vache~00~@001465A0
 ;00003160{A torture device for the hungry!~00~}@0014D24A
-¡Un dispositivo de tortura para los hambrientos!~00~@0014D24A
+Un instrument de torture pour les affamés !~00~@0014D24A
 ;00003181{I can just picture the goodies inside!~00~}@0014D252
-¡Puedo imaginarme los manjares del interior!~00~@0014D252
+Je peux juste imaginer les goodies à l'intérieur !~00~@0014D252
 ;000031A8{It's pulled as far as I can pull it!~00~}@0014D272
-¡He tirado tanto como puedo!~00~@0014D272
+C'est tiré aussi loin que je peux le tirer !~00~@0014D272
 ;000031CD{It doesn't go any further, dude.~00~}@0014D2F0
-No va más allá, tío.~00~@0014D2F0
+Ca ne va pas plus loin, mec.~00~@0014D2F0
 ;000031EE{Better close it first.~00~}@0014D308
-Mejor cerrarlo antes.~00~@0014D308
+Mieux vaut le fermer d'abord.~00~@0014D308
 ;00003205{Empty!~00~}@0014D44A
-¡Vacía!~00~@0014D44A
+Vide !~00~@0014D44A
 ;0000320C{How can it be empty? It's a refrigerator!~00~}@0014D452
-¿Cómo puede ser? ¡Es una nevera!~00~@0014D452
+Comment peut-il être vide ? C'est un réfrigérateur !~00~@0014D452
 ;00003237{I feel so betrayed.~00~}@0014D45A
-Me siento tan traicionado.~00~@0014D45A
+Je me sens tellement trahi.~00~@0014D45A
 ;0000324B{I can't open it. It's jammed against the wall.~00~}@0014D46A
-No puedo abrirla. Está atascada contra la pared.~00~@0014D46A
+Je ne peux pas l'ouvrir. Il est coincé contre le mur.~00~@0014D46A
 ;0000327B{It's already shut, dude!~00~}@0014D4D4
-¡Ya está cerrada, tío!~00~@0014D4D4
+C'est déjà fermé, mec !~00~@0014D4D4
 ;00003294{Refrigerator~00~}@001465A8
-Nevera~00~@001465A8
+Réfrigérateur~00~@001465A8
 ;000032A1{It's just as empty as the fridge.~00~}@0014D4EA
-Tan vacío como la nevera.~00~@0014D4EA
+C'est aussi vide que le frigo.~00~@0014D4EA
 ;000032C3{Fridge Door~00~}@001465B0
-Puerta de la Nevera~00~@001465B0
+Porte du frigo~00~@001465B0
 ;000032CF{The top from a soda can! Cool! I collect these!~00~}@0014D546
-¡La anilla de la lata de soda! ¡Mola! ¡Puedo coleccionarlas!~00~@0014D546
+Le dessus d'une canette de soda ! Frais ! Je les collectionne !~00~@0014D546
 ;000032FF{Bingo!~00~}@0014D654@0014DF62@0014F492@0014F4EA@0014F542@0014F59A
-¡Bingo!~00~@0014F59A@0014F542@0014F4EA
+Bingo !~00~@0014F59A@0014F542@0014F4EA
 ;00003306{Soda Tab~00~}@001465B8
-Anilla de Soda~00~@001465B8
+Anneau de soda~00~@001465B8
 ;0000330F{'Eggs, cheese, bread, milk...'~00~}@0014D66A
-'Huevos, queso, pan, leche...'~00~@0014D66A
+'Œufs, fromage, pain, lait...'~00~@0014D66A
 ;0000332E{'Arsenic?' Creepy!~00~}@0014D672
-'¿Arsénico?' ¡Siniestro!~00~@0014D672
+'Arsenic ?' Sinistre !~00~@0014D672
 ;00003341{Note~00~}@001465C0
-Nota~00~@001465C0
+Note~00~@001465C0
 ;00003346{There's water in this pot. Hope it doesn't spill!~00~}@0014D6BC
-Hay agua en esta olla. ¡Espero que no se derrame!~00~@0014D6BC
+Il y a de l'eau dans ce pot. J'espère que ça ne se renversera pas !~00~@0014D6BC
 ;00003379{Pot o' Water~00~}@001465C8
-Olla con Agua~00~@001465C8
+Pot d'eau~00~@001465C8
 ;00003386{Looks heavy. Bet it packs a whallop, though!~00~}@0014D72C
-Parece pesado. ¡Apuesto a que puede dar un buen golpetazo!~00~@0014D72C
+Ca a l'air lourd. Je parie qu'il peut faire un malheur !~00~@0014D72C
 ;000033B4{Pot~00~}@001465D0
-Olla~00~@001465D0
+Pot~00~@001465D0
 ;000033B8{I wouldn't want to make him mad!~00~}@0014D7EC
-¡No quisiera enfadarlo!~00~@0014D7EC
+Je ne voudrais pas le rendre fou !~00~@0014D7EC
 ;000033D9{Um, Mister Cook?~00~}@0014D808
-¿Ehm, Sr. Cocinero?~00~@0014D808
+Euh, Monsieur le cuisinier ?~00~@0014D808
 ;000033EA{Whaddya want, kid?~00~}@0014D816
-¿Qué quieres, chico?~00~@0014D816
+Qu'est-ce tu veux, gamin ?~00~@0014D816
 ;000033FD{Hey, get outtah here! Employees only!~00~}@0014D836
-¡Eh, fuera aquí! ¡Solo empleados!~00~@0014D836
+Hé, sortez d'ici ! Employés seulement !~00~@0014D836
 ;00003424{S-s-sorry!~00~}@0014D83E
 ¡Lo s-siento!~00~@0014D83E
 ;0000342F{Can't you just make us a quick hamburger?~00~}@0014D852
