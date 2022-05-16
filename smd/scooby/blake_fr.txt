@@ -211,63 +211,63 @@ Comment êtes-vous descendu ici ?~00~@0014826C
 ;00000F16{Not sure.~00~}@00148270
 Je ne sais pas.~00~@00148270
 ;00000F20{Don't worry, Uncle Blake. I'll get you out as soon as I can!~00~}@001482A4
-No te preocupes, Tío Blake. ¡Te sacaré de aquí cuanto antes!~00~@001482A4
+Ne vous inquiétez pas, oncle Blake. Je vous fais sortir dès que je peux !~00~@001482A4
 ;00000F5D{Thanks, son! I know I can count on you!~00~}@001482A8
-¡Gracias hijo! ¡Sé que puedo contar contigo!~00~@001482A8
+Merci, fiston ! Je sais que je peux compter sur toi !~00~@001482A8
 ;00000F86{They say there's a magic gold medallion hidden here in the tomb.~00~}@001482CC
-Dicen que hay un medallón mágico de oro escondido aquí en la tumba.~00~@001482CC
+Ils disent qu'il y a un médaillon magique en or caché ici dans la tombe.~00~@001482CC
 ;00000FC7{That must be what the rascal is after!~00~}@001482DA
-¡Eso debe ser lo que busca ese bribón!~00~@001482DA
+Ce doit être ce que cherche le coquin !~00~@001482DA
 ;00000FEE{That statue over there has something to do with it,~00~}@001482E8
-Esa estatua de ahí tiene algo que ver,~00~@001482E8
+Cette statue là-bas a quelque chose à voir avec ça,~00~@001482E8
 ;00001022{But I can't make out what.~00~}@001482F6
-pero no puedo descifrar el qué.~00~@001482F6
+mais je ne sais pas quoi.~00~@001482F6
 ;0000103D{Something about a magic cup, it looks like.~00~}@00148304
-Algo acerca de una copa mágica, parece.~00~@00148304
+Quelque chose à propos d'une coupe magique, on dirait.~00~@00148304
 ;00001069{Blast! It's no use.~00~}@00148316
-¡Rayos! No funciona.~00~@00148316
+Mince ! Ca ne fonctionne pas.~00~@00148316
 ;0000107E{I just can't remember what some of these symbols mean.~00~}@00148324
-No puedo recordar que significan algunos de los símbolos.~00~@00148324
+Je ne me souviens pas du sens de certains de ces symboles.~00~@00148324
 ;000010B5{I used to have a book that would help me read them,~00~}@00148332
-Tenía un libro que me ayudaría a leerlos,~00~@00148332
+J'avais un livre qui m'aidait à les lire,~00~@00148332
 ;000010E9{but it went missing about a month ago.~00~}@00148340
-pero se perdió hace más o menos un mes.~00~@00148340
+mais il a disparu il y a environ un mois.~00~@00148340
 ;00001110{Come to think of it, that was when this ghost business started.~00~}@0014834E
-Pensando en ello, fue en ese momento cuando comenzó el tema del fantasma.~00~@0014834E
+En y repensant, c'est à ce moment-là que cette affaire de fantômes a commencé.~00~@0014834E
 ;00001150{What's so interesting?~00~}@001482B6
-¿Qué es tan interesante?~00~@001482B6
+Qu'y a-t-il de si intéressant ?~00~@001482B6
 ;00001167{These writings!~00~}@001482BA
-¡Estos escritos!~00~@001482BA
+Ces écritures !~00~@001482BA
 ;00001177{Okay, later.~00~}@00148354
-Vale, hasta luego.~00~@00148354
+OK, à plus tard.~00~@00148354
 ;00001184{Good luck, son!~00~}@00148358
-¡Buena suerte, hijo!~00~@00148358
+Bonne chance fiston !~00~@00148358
 ;00001194{What do I do with this amulet?~00~}@00148376
-¿Qué hago con este amuleto?~00~@00148376
+Que faire de cette amulette ?~00~@00148376
 ;000011B3{I have a feeling someone wants it awfully bad.~00~}@0014837A
-Presiento que alguien lo quiere muchísimo.~00~@0014837A
+Je sens que quelqu'un le veut vraiment.~00~@0014837A
 ;000011E2{Then we say some magic words.~00~}@0014839E
-Entonces decimos algunas palabras mágicas.~00~@0014839E
+Ensuite, nous disons quelques mots magiques.~00~@0014839E
 ;00001200{Like, what magic words?~00~}@001483A6
-¿Cómo, que palabras mágicas?~00~@001483A6
+Comme, quels mots magiques?~00~@001483A6
 ;00001218{Have you tried Abra-Cadabra?~00~}@001483C4
-¿Has probado Abra-Cadabra?~00~@001483C4
+As-tu essayé Abra-Cadabra ?~00~@001483C4
 ;00001235{How about Ala-Kazam?~00~}@001483DC
-¿Y Ala-Kazam?~00~@001483DC
+Ou Ala-Kazam ?~00~@001483DC
 ;0000124A{Hocus Pocus, maybe?~00~}@001483F4
-¿Hocus Pocus, quizá?~00~@001483F4
+Hocus Pocus, peut-être ?~00~@001483F4
 ;0000125E{Um, Newport News?~00~}@0014840C
-¡Erm, Newport News?~00~@0014840C
+Euh, Newport News ?~00~@0014840C
 ;00001270{How about supercali-- no, that wouldn't be it.~00~}@00148424
-Y supercali-- no, eso no será.~00~@00148424
+Et supercali-- non, ce ne serait pas ça.~00~@00148424
 ;0000129F{Oh, blast, I don't know. Make something up.~00~}@0014843C
-Demonios, no lo sé. Inventa algo.~00~@0014843C
+Oh, zut, je ne sais pas. Inventez quelque chose.~00~@0014843C
 ;000012CB{What was it you said we needed to do to get the amulet again?~00~}@00148388
-¿Qué dijiste que teníamos que hacer para coger el amuleto?~00~@00148388
+Qu'avez-vous dit que nous devions faire pour récupérer l'amulette ?~00~@00148388
 ;00001309{We have to place a ceremonial goblet in the hands of the statue.~00~}@0014838C
-Tenemos que poner la copa ceremonial en las manos de la estatua.~00~@0014838C
+Nous devons placer un coupe de cérémonie entre les mains de la statue.~00~@0014838C
 ;0000134A{I'll just be looking for the amulet.~00~}@0014844E
-Estaré buscando el amuleto.~00~@0014844E
+Je vais chercher l'amulette.~00~@0014844E
 ;0000136F{Good for you, son!~00~}@00148452
 ¡Bien por ti, hijo!~00~@00148452
 ;00001382{Uncle Blake~00~}@001462C0
