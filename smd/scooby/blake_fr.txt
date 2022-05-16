@@ -41,7 +41,7 @@ C'est le cas. Seulement ce maudit fantôme a effrayé tous mes clients.~00~@0014
 ;0000033A{If this keeps up, I'll be bankrupt!~00~}@0014F9EC
 Si ça continue, je vais faire faillite !~00~@0014F9EC
 ;0000035E{G-g-ghost?~00~}@0014F9F4
-¿F-f-fantôme ?~00~@0014F9F4
+F-f-fantôme ?~00~@0014F9F4
 ;00000369{I knew I shouldn't have said anything.~00~}@0014FA02
 Je savais que je n'aurais rien dû dire.~00~@0014FA02
 ;00000390{We don't believe in Ghosts, Uncle Blake!~00~}@0014FA10
@@ -165,7 +165,7 @@ Ca va au tombeau~00~@001480E8
 ;00000C3E{Passage~00~}@00146290@001462F8@00146300
 Passage~00~@001462F8@00146300@00146290
 ;00000C46{Zoinks! That must be worth a fortune!~00~}@0014810E
-Mince ! Ça doit valoir une fortune !~00~@0014810E
+Mince ! Ca doit valoir une fortune !~00~@0014810E
 ;00000C6C{I wish! But I can't get through the bars.~00~}@0014811E
 Je le souhaite! Mais je ne peux pas passer les barreaux.~00~@0014811E
 ;00000C97{Besides, I think it's probably evidence.~00~}@00148126
@@ -181,7 +181,7 @@ Main~00~@001462A0
 ;00000D17{Somebody here has NO sense of humor!~00~}@00148162
 Quelqu'un ici n'a PAS le sens de l'humour.~00~@00148162
 ;00000D3C{It's sort of DESIGNED not to move very far, man.~00~}@00148172
-C'est en quelque sorte CONÇU pour ne pas aller très loin, mec.~00~@00148172
+C'est en quelque sorte CONCU pour ne pas aller très loin, mec.~00~@00148172
 ;00000D6D{Cuffs~00~}@001462A8
 Menottes~00~@001462A8
 ;00000D73{I think I hear something down there!~00~}@00148188
@@ -377,7 +377,7 @@ Juste quelques escaliers.~00~@00148e7C
 ;00001896{Stairs~00~}@00146360@00146658@00146660
 Escaliers~00~@00146360@00146658@00146660
 ;0000189D{It goes outside.~00~}@00148EAE
-Ça va dehors.~00~@00148EAE
+Ca va dehors.~00~@00148EAE
 ;000018AE{Outside Door~00~}@00146368
 Porte extérieure~00~@00146368
 ;000018BB{Double Doors~00~}@00146388@001463B8@00146600
@@ -397,7 +397,7 @@ Hôtel de Blake~00~@00149128
 ;00001948{Sign~00~}@001463A0
 Signe~00~@001463A0
 ;0000194D{Looks kinda shakey to me.~00~}@0014913E@00149178
-Ça m'a l'air un peu fragile.~00~@0014913E@00149178
+Ca m'a l'air un peu fragile.~00~@0014913E@00149178
 ;00001967{Totem Pole Bridge~00~}@001463A8@001463B0@00146760
 Totem du pont~00~@001463A8@001463B0@00146760
 ;00001979{Like, for tornados.~00~}@001491CC
@@ -611,7 +611,7 @@ Je vais t'en chercher tout de suite !~00~@0014C0F2
 ;00002688{Antacid~00~}@001464D0
 Antiacide~00~@001464D0
 ;00002690{To Rudolph L. Blake, in appreciation for his many contributions to the Native American Museum.~00~}@0014C154
-À Rudolph L. Blake, en remerciement pour ses nombreuses contributions au Musée Amérindien..~00~@0014C154
+A Rudolph L. Blake, en remerciement pour ses nombreuses contributions au Musée Amérindien..~00~@0014C154
 ;000026EF{I'm sure Uncle Blake wants it to stay where it is.~00~}@0014C164
 Je suis sûr qu'oncle Blake veut qu'il reste là où il est.~00~@0014C164
 ;00002722{Plaque~00~}@001464D8
@@ -709,7 +709,7 @@ Termites~00~@00146538@00146548
 ;00002C1F{Hmm, water, faucet, basin, drain: yup, it's a sink alright.~00~}@0014C9DC
 Hmm, eau, robinet, lavabo, vidange : oui, c'est bien un évier.~00~@0014C9DC
 ;00002C5C{Kitchen Sink~00~}@00146540
-Évier de cuisine~00~@00146540
+Evier de cuisine~00~@00146540
 ;00002C69{I once saw a single termite eat a whole croquet ball!~00~}@0014C9F2
 J'ai vu une fois un seul termite manger une boule de croquet entière !~00~@0014C9F2
 ;00002C9F{You know, I bet I could get this thing off if I had something to unscrew it with.~00~}@0014CA08
@@ -733,7 +733,7 @@ Bien bien! Je pense que c'est l'autre côté de cette peinture effrayante dans l
 ;00002E12{Flour~00~}@00146568
 Farine~00~@00146568
 ;00002E18{Shh! Listen, scoob!~00~}@0014CC58
-Chut ! Écoute, Scoob !~00~@0014CC58
+Chut ! Ecoute, Scoob !~00~@0014CC58
 ;00002E2D{Did you get Blake?~00~}@000CEB33@0014CC66
 Avez-vous eu Blake ?~00~@0014CC66
 ;00002E40{Of course.~00~}@0014CC74@0014CCFE
