@@ -601,63 +601,63 @@ Vous n'auriez pas par hasard une coupe de cérémonie indienne, n'est-ce pas ?~0
 ;00002607{Book~00~}@001464C8
 Livre~00~@001464C8
 ;0000260C{Pink medicine for your stomach.~00~}@0014C040
-Medicina rosa para tu estómago.~00~@0014C040
+Médicament rose pour ton estomac.~00~@0014C040
 ;0000262C{Wonder if it tastes good?~00~}@00146108@0014C048
-¿Sabrá bien?~00~@0014C048
+Je me demande si c'est bon.~00~@0014C048
 ;00002646{Gosh, kid! You really DO need food!~00~}@0014C0E4
-¡Rayos, chico! ¡Realmente NECESITAS comida!~00~@0014C0E4
+Mon Dieu, gamin ! Tu as VRAIMENT besoin de nourriture !~00~@0014C0E4
 ;0000266B{I'll get you some right now!~00~}@0014C0F2
-¡Te conseguiré algo ahora mismo!~00~@0014C0F2
+Je vais t'en chercher tout de suite !~00~@0014C0F2
 ;00002688{Antacid~00~}@001464D0
-Antiácido~00~@001464D0
+Antiacide~00~@001464D0
 ;00002690{To Rudolph L. Blake, in appreciation for his many contributions to the Native American Museum.~00~}@0014C154
-A Rudolph L. Blake, en reconocimiento a sus muchas contribuciones al Museo Nativo Americano.~00~@0014C154
+À Rudolph L. Blake, en remerciement pour ses nombreuses contributions au Musée Amérindien..~00~@0014C154
 ;000026EF{I'm sure Uncle Blake wants it to stay where it is.~00~}@0014C164
-Estoy seguro de que Tío Blake quiere que se quede dónde está.~00~@0014C164
+Je suis sûr qu'oncle Blake veut qu'il reste là où il est.~00~@0014C164
 ;00002722{Plaque~00~}@001464D8
-Placa~00~@001464D8
+Plaque~00~@001464D8
 ;00002729{You know, for cutting stuff.~00~}@0014C258
-Ya sabes, para cortar cosas.~00~@0014C258
+Tu sais, pour couper des trucs.~00~@0014C258
 ;00002746{Like pizza.~00~}@0014C260
-Como pizza.~00~@0014C260
+Comme une pizza.~00~@0014C260
 ;00002752{No way, dude. I might need it long like this.~00~}@0014C2B0
-Ni hablar, tío. Podría necesitarlo largo.~00~@0014C2B0
+Pas moyen mec. Je pourrais en avoir besoin encore longtemps.~00~@0014C2B0
 ;00002781{Snip!~00~}@0014C2D0
-¡Cortar!~00~@0014C2D0
+Couper !~00~@0014C2D0
 ;00002787{Scissors~00~}@001464E8
-Tijeras~00~@001464E8
+Ciseaux~00~@001464E8
 ;00002790{Like, it's completely invisible when it's closed.~00~}@0014C2F2
-Es invisible cuando está cerrada.~00~@0014C2F2
+C'est complètement invisible lorsque c'est fermé.~00~@0014C2F2
 ;000027C2{Zoinks! It's GONE!~00~}@0014C318
-¡Corcho! ¡Se fué!~00~@0014C318
+Mince ! C'est PARTI !~00~@0014C318
 ;000027D5{Trap Door~00~}@001464F0@00146648
-Trampilla~00~@001464F0@00146648
+Trappe~00~@001464F0@00146648
 ;000027DF{There sure are a lot of books about Inidians up here.~00~}@0014C33E
-Hay un montón de libros sobre Indios ahí arriba.~00~@0014C33E
+Il y a vraiment beaucoup de livres sur les Indiens ici.~00~@0014C33E
 ;00002815{Book Collection~00~}@001464F8
-Colección de Libros~00~@001464F8
+Collection de livres~00~@001464F8
 ;00002825{One of the books is missing.~00~}@0014C370
-Falta uno de los libros.~00~@0014C370
+Il manque un des livres.~00~@0014C370
 ;00002842{I think that's a clue!~00~}@0014C378
-¡Creo que es una pista!~00~@0014C378
+Je pense que c'est un indice !~00~@0014C378
 ;00002859{Missing Book~00~}@00146500
-Libro Faltante~00~@00146500
+livre manquant~00~@00146500
 ;00002866{It's a little electric heater. Nice and warm, too!~00~}@0014C3B6
-Es un calentador eléctrico. ¡Pequeño y calentito!~00~@0014C3B6
+C'est un radiateur électrique. Agréable et chaud !~00~@0014C3B6
 ;0000289A{Heater~00~}@00146508
-Calentador~00~@00146508
+Radiateur~00~@00146508
 ;000028A1{Zoinks! That looks like Uncle Blake's writing!~00~}@0014C5E2
-¡Corcho! ¡Eso parece la letra de Tío Blake!~00~@0014C5E2
+Mince ! Ca ressemble à l'écriture de l'oncle Blake !~00~@0014C5E2
 ;000028D1{I hope he's okay!~00~}@0014C5EA
-¡Espero que esté bien!~00~@0014C5EA
+J'espère qu'il va bien !~00~@0014C5EA
 ;000028E3{'Help!'~00~}@0014C5F2
-'¡Ayuda!'~00~@0014c5F2
+'Au secours!'~00~@0014c5F2
 ;000028EB{Chalkboard~00~}@00146510
-Pizarra~00~@00146510
+Tableau~00~@00146510
 ;000028F6{They're some kind of Indian beads, I think.~00~}@0014C6F2
-Son algún tipo de cuentas Indias, creo.~00~@0014C6F2
+Ce sont des sortes de perles indiennes, je pense.~00~@0014C6F2
 ;00002922{Here's some beads I found.~00~}@0014C74E
-Algunas cuentas que encontré.~00~@0014C74E
+Voici quelques perles que j'ai trouvées.~00~@0014C74E
 ;0000293D{Many thanks. But what I'm really looking for is a kachina doll.~00~}@0014C774
 Gracias. Pero lo que realmente busco es una muñeca kachina.~00~@0014C774
 ;0000297D{I found one in the woods a few days ago, but I must have dropped it on the way home.~00~}@0014C782
