@@ -269,185 +269,185 @@ Nous devons placer un coupe de cérémonie entre les mains de la statue.~00~@001
 ;0000134A{I'll just be looking for the amulet.~00~}@0014844E
 Je vais chercher l'amulette.~00~@0014844E
 ;0000136F{Good for you, son!~00~}@00148452
-¡Bien por ti, hijo!~00~@00148452
+C'est bon pour toi, fiston !~00~@00148452
 ;00001382{Uncle Blake~00~}@001462C0
-Tío Blake~00~@001462C0
+Oncle Blake~00~@001462C0
 ;0000138E{It's a wheel for the mine car.~00~}@00148470
-Es una rueda para el carro de mina.~00~@00148470
+C'est une roue pour le wagonnet de la mine.~00~@00148470
 ;000013AD{I need the rest of the wheels before I bother with that.~00~}@00148480
-Necesito el resto de las ruedas antes de preocuparme por eso.~00~@00148480
+J'ai besoin des autres roues avant de m'embêter avec ça.~00~@00148480
 ;000013E6{Wheel~00~}@001462C8@001462E0@001462E8@001462F0
-Rueda~00~@001462C8@001462E0@001462E8@001462F0
+Roue~00~@001462C8@001462E0@001462E8@001462F0
 ;000013EC{Two wheels for the mine car.~00~}@001484A6
-Dos ruedas del carro de mina.~00~@001484A6
+Deux roues pour le wagonnet de la mine.~00~@001484A6
 ;00001409{Three wheels for the mine car.~00~}@001484C6
-Tres ruedas del carro de mina.~00~@001484C6
+Trois roues pour le wagonnet de la mine.~00~@001484C6
 ;00001428{Wheels~00~}@001462D0
-Ruedas~00~@001462D0
+Roues~00~@001462D0
 ;0000142F{It's missing three wheels.~00~}@0014852E
-Le faltan tres ruedas.~00~@0014852E
+Il manque trois roues.~00~@0014852E
 ;0000144A{I can't use it without wheels!~00~}@0014853E
-¡No puedo usarlo sin ruedas!~00~@0014853E
+Je ne peux pas l'utiliser sans roues !~00~@0014853E
 ;00001469{Well, I think it should work now.~00~}@0014854E
-Bueno, creo que ahora funcionará.~00~@0014854E
+Bien, je pense que cela devrait fonctionner maintenant.~00~@0014854E
 ;0000148B{Come on, Scooby! Let's ride!~00~}@0014857E
-¡Vamos Scooby! ¡Montemos!~00~@0014857E
+Allez, Scooby ! En route !~00~@0014857E
 ;000014A9{The lift engine isn't running.~00~}@00148714
-El motor ascenso no funciona.~00~@00148714
+Le moteur de l'ascenseur ne fonctionne pas.~00~@00148714
 ;000014C8{Let's ride, Scoob!~00~}@0014872C
-¡Montemos, Scoob!~00~@0014872C
+En route, Scoob !~00~@0014872C
 ;000014DB{Mine Car~00~}@001462D8
-Carro de Mina~00~@001462D8
+Wagonnet de la mine~00~@001462D8
 ;000014E4{It looks like a wheel!~00~}@00148890@0014893A@001489E4
-¡Parece una rueda!~00~@00148890@0014893A@001489E4
+Ca ressemble à une roue !~00~@00148890@0014893A@001489E4
 ;000014FB{It goes back to the basement.~00~}@00148A8E
-Va de vuelta al sótano.~00~@00148A8E
+Il retourne au sous-sol.~00~@00148A8E
 ;00001519{The track runs down a long way.~00~}@00148AD4
-Las vias descienden un largo camino.~00~@00148AD4
+La piste descend très loin.~00~@00148AD4
 ;00001539{Uh, uh. That's way too steep!~00~}@00148AE4
-Oh, oh. ¡Eso es demasiada inclinación!~00~@00148AE4
+Oh, oh. C'est beaucoup trop raide !~00~@00148AE4
 ;00001558{A fake! It's really electric.~00~}@00148AFA
-¡Una imitación! En realidad es eléctrico.~00~@00148AFA
+Un faux! C'est électrique.~00~@00148AFA
 ;00001577{I can't take it. It's wired in.~00~}@00148B0A
-No puedo cogerlo. Está conectado.~00~@00148B0A
+Je ne peux pas le prendre. C'est câblé.~00~@00148B0A
 ;00001598{Lantern~00~}@00146308
-Linterna~00~@00146308
+Lanterne~00~@00146308
 ;000015A0{Wow! Like, that could give you one king size headache!~00~}@00148B20
-¡Wow! ¡Eso podría darte un gran dolor de cabeza!~00~@00148B20
+Ouah! Ca pourrait vous donner un mal de tête XXL !~00~@00148B20
 ;000015D8{No way. I'm not carrying that heavy thing around.~00~}@00148B30
-Ni hablar. No voy a llevar esa cosa tan pesada.~00~@00148B30
+Pas question. Je ne porte pas ce truc lourd.~00~@00148B30
 ;0000160B{Pick~00~}@00146310
-Pico~00~@00146310
+Prendre~00~@00146310
 ;00001610{A creepy picture. The eyes look weird.~00~}@00148B46
-Un retrato siniestro. Los ojos son raros.~00~@00148B46
+Une image sinistre. Les yeux ont l'air bizarre.~00~@00148B46
 ;00001638{Picture~00~}@00146318
-Retrato~00~@00146318
+Image~00~@00146318
 ;00001640{Wonder who they'll get to push the gum, now?~00~}@00148B5C
-Me pregunto a quién harán enseñar las encías ahora.~00~@00148B5C
+Je me demande à qui ils vont montrer leurs gencives maintenant.~00~@00148B5C
 ;0000166D{Zebra~00~}@00146320
-Zebra~00~@00146320
+Zèbre~00~@00146320
 ;00001673{Nothing there but cobwebs.~00~}@00148B72
-Aquí solo hay telarañas.~00~@00148B72
+Rien que des toiles d'araignées.~00~@00148B72
 ;0000168E{Mailbox~00~}@00146328
-Buzones~00~@00146328
+Boites aux lettres~00~@00146328
 ;00001696{I like fires. Too bad there's no marshmellows.~00~}@00148B88
-Me gusta el fuego. Lástima que no haya marshmellows.~00~@00148b88
+J'aime les feux. Dommage qu'il n'y ait pas de guimauves.~00~@00148b88
 ;000016C6{I'm not THAT stupid.~00~}@00148B98
-No soy TAN estúpido.~00~@00148b98
+Je ne suis pas SI stupide.~00~@00148b98
 ;000016DB{Fire~00~}@00146330
-Fuego~00~@00146330
+Feu~00~@00146330
 ;000016E0{Definitely better than the doll.~00~}@00148BAE
-Mucho mejor que la muñeca.~00~@00148BAE
+Certainement mieux que la poupée.~00~@00148BAE
 ;00001701{I'd never be able to reach it.~00~}@00148C20
-Nunca podré alcanzarlo.~00~@00148C20
+Je ne pourrais jamais l'atteindre.~00~@00148C20
 ;00001720{Goblet~00~}@00146338
-Copa~00~@00146338
+Coupe~00~@00146338
 ;00001727{Fifth bottle from the left, third bottle down.~00~}@00148C46
-Quinta botella desde la izquierda, tercera hacia abajo.~00~@00148C46
+Cinquième bouteille à partir de la gauche, troisième bouteille en bas.~00~@00148C46
 ;00001756{What bottles?~00~}@00148C4E
-¿Qué botellas?~00~@00148C4E
+Quelles bouteilles ?~00~@00148C4E
 ;00001764{I can't see it from here.~00~}@00148C56
-No puedo verla desde aquí.~00~@00148C56
+Je ne peux pas le voir d'ici.~00~@00148C56
 ;0000177E{Yee-owch! The fire is too hot. I can't get it!~00~}@00148CA4
-¡Ouch! El fuego está muy caliente. ¡No puedo cogerla!~00~@00148CA4
+Ouch ! Le feu est trop chaud. Je ne peux pas l'atteindre !~00~@00148CA4
 ;000017AF{Yeah! That's gotta be the answer!~00~}@00148CB4
-¡Sí! ¡Esa debe ser la respuesta!~00~@00148CB4
+Ouais! Ca doit être la réponse !~00~@00148CB4
 ;000017D2{Crumpled Note~00~}@00146340
-Nota Arrugada~00~@00146340
+Note froissée~00~@00146340
 ;000017E0{I bet this calls the Bellhop.~00~}@00148CFA
-Apuesto a que esto llama al botones.~00~@00148cfA
+Je parie que cela appelle les boutons.~00~@00148cfA
 ;000017FE{It doesn't work.~00~}@00148D26
-No funciona.~00~@00148d26
+Ca ne fonctionne pas.~00~@00148d26
 ;0000180F{Bell~00~}@00146348
-Timbre~00~@00146348
-;00001814{A door is a door is a door.~00~}@00148D3C@00149A9E@00149EE8@0014A26C@0014A77C@0014AC00@0014B00A@0014C608@0014CE4E
-Una puerta es una puerta.~00~@00148d3C@00149A9E@00149EE8@0014A26C@0014A77C@0014AC00@0014B00A@0014C608@0014CE4E
+Sonnette~00~@00146348
+;00001814{A door is a door.~00~}@00148D3C@00149A9E@00149EE8@0014A26C@0014A77C@0014AC00@0014B00A@0014C608@0014CE4E
+Une porte est une porte.~00~@00148d3C@00149A9E@00149EE8@0014A26C@0014A77C@0014AC00@0014B00A@0014C608@0014CE4E
 ;00001830{It's already shut, man.~00~}@00148DA4@00148F16@001493AA@0014B720@0014B9C0@0014C66A
-Ya está cerrado, tío.~00~@00148DA4@00148F16@001493AA@0014B720@0014B9C0@0014C66A
+C'est déjà fermé, mec.~00~@00148DA4@00148F16@001493AA@0014B720@0014B9C0@0014C66A
 ;00001848{It's already open.~00~}@00148DD0@00148F26@00149220@001493BA@00149586@0014B730@0014B9D0@0014BAA2@0014BB80@0014C1DE@0014C68A@0014CDCE@0014D920@0014DD7A@0014E22A
-Ya está abierto.~00~@00148DD0@00148F26@00149220@001493BA@00149586@0014B730@0014B9D0@0014BAA2@0014BB80@0014C1DE@0014C68A@0014CDCE@0014D920@0014DD7A@0014E22A
+C'est déjà ouvert.~00~@00148DD0@00148F26@00149220@001493BA@00149586@0014B730@0014B9D0@0014BAA2@0014BB80@0014C1DE@0014C68A@0014CDCE@0014D920@0014DD7A@0014E22A
 ;0000185B{Door~00~}@00146350@00146440@00146448@00146450@00146458@00146460@00146468@00146478@001464A0@00146518
-Puerta~00~@00146350@00146440@00146448@00146450@00146458@00146460@00146468@00146478@001464A0@00146518
+Porte~00~@00146350@00146440@00146448@00146450@00146458@00146460@00146468@00146478@001464A0@00146518
 ;00001860{Looks like a cafe in there!~00~}@00148E4A
-¡Eso parece un café!~00~@00148E4A
+On dirait un café !~00~@00148E4A
 ;0000187C{Archway~00~}@00146358@00146630@001466D0@00146708@00146728
-Arco~00~@00146358@00146630@001466D0@00146708@00146728
+Arche~00~@00146358@00146630@001466D0@00146708@00146728
 ;00001884{Just some stairs.~00~}@00148E7C
-Solo unas escaleras.~00~@00148e7C
+Juste quelques escaliers.~00~@00148e7C
 ;00001896{Stairs~00~}@00146360@00146658@00146660
-Escaleras~00~@00146360@00146658@00146660
+Escaliers~00~@00146360@00146658@00146660
 ;0000189D{It goes outside.~00~}@00148EAE
-Va al exterior.~00~@00148EAE
+Ça va dehors.~00~@00148EAE
 ;000018AE{Outside Door~00~}@00146368
-Puerta Exterior~00~@00146368
+Porte extérieure~00~@00146368
 ;000018BB{Double Doors~00~}@00146388@001463B8@00146600
-Puertas Dobles~00~@00146388@001463B8@00146600
+Doubles portes~00~@00146388@001463B8@00146600
 ;000018C8{Pretty.~00~}@00148FB8@00148FDE
-Bonito.~00~@00148FB8@00148FDE
+Joli.~00~@00148FB8@00148FDE
 ;000018D0{I already got that.~00~}@00148FC8
-Ya tengo eso.~00~@00148FC8
+J'ai déjà ça.~00~@00148FC8
 ;000018E4{Christmas Lights~00~}@00146390@00146398
-Luces de Navidad~00~@00146390@00146398
+Lumières de Noël~00~@00146390@00146398
 ;000018F5{I can't quite reach them.~00~}@00149030
-No las alcanzo.~00~@00149030
+Je n'arrive pas à les atteindre.~00~@00149030
 ;0000190F{I already tried that. I can't reach them.~00~}@00149038
-Ya he probado eso. No alcanzo.~00~@00149038
+J'ai déjà essayé ça. je n'arrive pas à les atteindre~00~@00149038
 ;0000193A{Blake's Hotel~00~}@00149128
-Hotel de Blake~00~@00149128
+Hôtel de Blake~00~@00149128
 ;00001948{Sign~00~}@001463A0
-Cartel~00~@001463A0
+Signe~00~@001463A0
 ;0000194D{Looks kinda shakey to me.~00~}@0014913E@00149178
-La veo un poco inestable.~00~@0014913E@00149178
+Ça m'a l'air un peu fragile.~00~@0014913E@00149178
 ;00001967{Totem Pole Bridge~00~}@001463A8@001463B0@00146760
-Tótem Puente~00~@001463A8@001463B0@00146760
+Totem du pont~00~@001463A8@001463B0@00146760
 ;00001979{Like, for tornados.~00~}@001491CC
-Como, para tornados.~00~@001491CC
+Comme, pour les tornades.~00~@001491CC
 ;0000198D{It's already closed.~00~}@00149274@00149622@0014BB06@0014BBE4@0014C242@0014CE00@0014D98A@0014DA5E@0014DDFE@0014E28A
-Ya está cerrado.~00~@00149274@00149622@0014BB06@0014BBE4@0014C242@0014CE00@0014D98A@0014DDFE@0014E28A
+C'est déjà fermé.~00~@00149274@00149622@0014BB06@0014BBE4@0014C242@0014CE00@0014D98A@0014DDFE@0014E28A
 ;000019A2{That's a pretty big lock!~00~}@001492AA
-¡Un cierre enorme!~00~@001492AA
+C'est un gros cadenas !~00~@001492AA
 ;000019BC{I can't open it with that lock on there!~00~}@001492BA
-¡No puedo abrirlas con ese cierre!~00~@001492BA
+Je ne peux pas l'ouvrir avec ce cadenas !~00~@001492BA
 ;000019E5{Locked Doors~00~}@001463C0
-Puertas Cerradas~00~@001463C0
+Portes verrouillées~00~@001463C0
 ;000019F2{That's a lot of snow. I'd need something besides my hands.~00~}@001492D0
-Eso es mucha nieve. Necesitaré algo más que mis manos.~00~@001492D0
+C'est beaucoup de neige. J'aurais besoin d'autre chose que de mes mains.~00~@001492D0
 ;00001A2E{Ungh! Can't budge it. The snow on top is too heavy.~00~}@001492E0
-¡Ugh! No puedo moverlo. La nieve es demasiado pesada.~00~@001492E0
+Oh ! Je ne peux pas la bouger. La neige est trop lourde.~00~@001492E0
 ;00001A64{Snow Covered Doors~00~}@001463C8
-Puertas Cubiertas de Nieve~00~@001463C8
+Portes couvertes de neige~00~@001463C8
 ;00001A77{Mental note: mistake.~00~}@0014931C
-Nota mental: error.~00~@0014931C
+Note mentale : erreur.~00~@0014931C
 ;00001A8E{For plugging stuff in.~00~}@0014932C
-Para enchufarle cosas.~00~@0014932C
+Pour brancher des trucs.~00~@0014932C
 ;00001AA5{Outlet~00~}@001463D0
-Enchufe~00~@001463D0
+Prise~00~@001463D0
 ;00001AAC{The front door.~00~}@00149342
-La puerta principal.~00~@00149342
+La porte d'entrée.~00~@00149342
 ;00001ABC{Main Entrance~00~}@001463D8
-Entrada Principal~00~@001463D8
+Entrée principale~00~@001463D8
 ;00001ACA{Looks like a shed over this way.~00~}@00149428
-Parece que hay un cobertizo por aquí.~00~@00149428
+On dirait un hangar par ici.~00~@00149428
 ;00001AEB{Path to Shed~00~}@001463E0
-Camino al cobertizo~00~@001463E0
+Chemin vers le hangar~00~@001463E0
 ;00001AF8{No. I'll leave it as a memorial.~00~}@0014944E
-No. Lo dejaré como memorial.~00~@0014944E
+Non. Je le laisserai en souvenir.~00~@0014944E
 ;00001B19{It's a ratty snowman hat.~00~}@0014945E
-Es un raído sombrero de muñeco de nieve.~00~@0014945E
+C'est un chapeau de bonhomme de neige miteux.~00~@0014945E
 ;00001B33{Hat~00~}@001463E8
-Sombrero~00~@001463E8
+Chapeau~00~@001463E8
 ;00001B37{Pretty junky, actually. Bet we could push it hard and it would fall over.~00~}@00149474
-Bastante precario, en realidad. Apuesto a que podría empujarlo para que cayera.~00~@00149474
+Assez précaire, en fait. Je parie que je pourrais le faire tomber.~00~@00149474
 ;00001B82{That was a joke, okay?~00~}@00149494
-Era una broma, ¿Vale?~00~@00149494
+C'était une blague, d'accord ?~00~@00149494
 ;00001B99{No way. I can't REALLY push it over.~00~}@001494AC
-Que no. EN SERIO no puedo empujarlo.~00~@001494AC
+Pas question. Je ne peux VRAIMENT pas le pousser.~00~@001494AC
 ;00001BBF{I suppose you think this is a clever way of tricking me into pushing it from the other side?~00~}@001494D8
-¿Piensas que esta es una manera inteligente de engañarme para que lo empuje desde el otro lado?~00~@001494D8
+Pensez-vous que c'est une façon intelligente de me tromper pour que je le pousse de l'autre côté ?~00~@001494D8
 ;00001C1C{I can't open it with that lock on!~00~}@001494F8
-¡No puedo abrirlo con ese candado!~00~@001494F8
+Je ne peux pas l'ouvrir avec ce cadenas !~00~@001494F8
 ;00001C3F{Shed~00~}@001463F0
-Cobertizo~00~@001463F0
+Hangar~00~@001463F0
 ;00001C44{These don't look very warm, but they're pretty tough.~00~}@00149638
 No parecen muy cálidos, pero son bastante duros.~00~@00149638
 ;00001C7A{These old gloves will protect my hands from the mega itching!~00~}@00149694
