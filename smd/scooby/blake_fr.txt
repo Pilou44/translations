@@ -449,157 +449,157 @@ Je ne peux pas l'ouvrir avec ce cadenas !~00~@001494F8
 ;00001C3F{Shed~00~}@001463F0
 Hangar~00~@001463F0
 ;00001C44{These don't look very warm, but they're pretty tough.~00~}@00149638
-No parecen muy cálidos, pero son bastante duros.~00~@00149638
+Ils ne semblent pas très chauds, mais ils sont assez durs.~00~@00149638
 ;00001C7A{These old gloves will protect my hands from the mega itching!~00~}@00149694
-¡Estos viejos guantes protegerán a mis manos del mega picor!~00~@00149694
+Ces vieux gants protégeront mes mains des méga démangeaisons !~00~@00149694
 ;00001CB8{Work Gloves~00~}@001463F8
-Guantes de Trabajo~00~@001463F8
+Gants de travail~00~@001463F8
 ;00001CC4{Aren't you glad you're not a weed?~00~}@001496C6
-¿No te alegras de no ser hierba?~00~@001496C6
+N'es-tu pas content de ne pas être une mauvaise herbe ?~00~@001496C6
 ;00001CE7{Sayonara, Death Lettuce!~00~}@00149710
-¡Sayonara, lechuga de la muerte!~00~@00149710
+Sayonara, Laitue de la Mort !~00~@00149710
 ;00001D00{Weed Killer~00~}@00146400
-Herbicida~00~@00146400
+Désherbant~00~@00146400
 ;00001D0C{Wonder why they call it a crowbar? Doesn't look much like any crow I ever saw.~00~}@0014972C
-¿Por qué lo llamarán palanca? No se parece a una pala.~00~@0014972C
+Pourquoi ça s'appelle un pied-de-biche ? Ca ne ressemble pas à une biche.~00~@0014972C
 ;00001D5C{This will never work. That lock is too tough.~00~}@0014973C
-Esto no funcionará nunca. Ese candado es demasiado duro.~00~@0014973C
+Cela ne fonctionnera jamais. Ce cadenas est trop dur.~00~@0014973C
 ;00001D8B{No, I don't think Uncle Blake would appreciate that!~00~}@001497B4
-¡No, no creo que al Tío Blake le gustara eso!~00~@001497B4
+Non, je ne pense pas que l'oncle Blake apprécierait ça !~00~@001497B4
 ;00001DC0{Crowbar~00~}@00146408
-Palanca~00~@00146408
+Pied-de-biche~00~@00146408
 ;00001DC8{Nail~00~}@00146410
-Clavo~00~@00146410
+Ongle~00~@00146410
 ;00001DCD{That goes back to the front of the hotel.~00~}@001497D0
-Eso lleva a la entrada del hotel.~00~@001497D0
+Cela ramène à l'entrée de l'hôtel.~00~@001497D0
 ;00001DF7{Path to Main Entrance~00~}@00146418
-Camino a la Entrada Principal~00~@00146418
+Chemin vers l'entrée principale~00~@00146418
 ;00001E0D{MondoLok Lock Company. Since 10 B.C.~00~}@00149824
-Compañía de candados MondoLok. Desde 10 A.C.~00~@00149824
+Société de cadenas MondoLok. Depuis 10 avant J.C.~00~@00149824
 ;00001E33{Guaranteed to withstand hammers, chisels, and...~00~}@0014982C
-Garantizado para soportar martillos, cinceles y...~00~@0014982C
+Garanti pour résister aux marteaux, burins et...~00~@0014982C
 ;00001E64{...nuclear explosions...~00~}@00149834
-...explosiones nucleares...~00~@00149834
+...explosions nucléaires...~00~@00149834
 ;00001E7D{I can see this being a problem.~00~}@00149840
-Veo esto siendo un problema.~00~@00149840
+Je peux voir que c'est un problème.~00~@00149840
 ;00001E9D{I gotta have a key to open this.~00~}@00149848
-Tengo que tener una llave para abrir esto.~00~@00149848
+Je dois avoir une clé pour ouvrir ça.~00~@00149848
 ;00001EBE{Lock~00~}@00146420
-Candado~00~@00146420
+Cadenas~00~@00146420
 ;00001EC3{An accreted crystaline water homologue.~00~}@0014985E
-Un homólogo de agua cristalina compacta.~00~@0014985E
+Un équivalent compact de l'eau cristalline.~00~@0014985E
 ;00001EEB{Okay, but he doesn't look much like the conversational type to me.~00~}@0014986E
-Vale, pero él no me parece un tipo muy conversacional.~00~@0014986E
+D'accord, mais il ne ressemble pas beaucoup au type conversationnel pour moi.~00~@0014986E
 ;00001F2E{See what I mean?~00~}@00149890
-¿Ves lo que te decía?~00~@00149890
+Tu vois ce que je veux dire ?~00~@00149890
 ;00001F3F{Hey, Snowman dude...~00~}@00149880
-Eh, Sr. Muñeco de Nieve...~00~@00149880
+Hé, bonhomme de neige...~00~@00149880
 ;00001F54{...~00~}@00149884
 ...~00~@00149884@0014EA24@0014EA3E@0014EA4C@0014EA5A@0014EAFE
 ;00001F58{Snowman~00~}@00146428
-Muñeco de Nieve~00~@00146428
+Bonhomme de neige~00~@00146428
 ;00001F60{Like, it's the Jolly Green Giant's spoon, man!~00~}@001498AA
-¡Algo así como la cuchara del gigante verde, tío!~00~@001498AA
+Un peu comme la cuillère du géant vert, mec !~00~@001498AA
 ;00001F8F{He hasn't made a mess yet.~00~}@001498EA
-Aún no ha hecho un desastre.~00~@001498EA
+Il n'a pas encore tout gâché.~00~@001498EA
 ;00001FAA{Sorry about this, Mr. Snowman, but we all have to make our sacrifices for the good of Blake's Hotel!~00~}@001499A4
-Siento esto, Sr. Muñeco de Nieve, ¡pero todos debemos hacer nuestros sacrificios por el bien del Hotel Blake!~00~@001499A4
+Désolé pour ça, M. Bonhomme de neige, mais nous devons tous faire des sacrifices pour le bien de l'hôtel de Blake !~00~@001499A4
 ;0000200F{Cowabunga!~00~}@001499D4
-¡Cowabunga!~00~@001499D4
+Cowabunga !~00~@001499D4
 ;0000201A{Shovel~00~}@00146430
-Pala~00~@00146430
+Pelle~00~@00146430
 ;00002021{Nah. Nothing worth seeing in there anymore.~00~}@00149ABE@00149F08@0014A28C@0014A79C@0014AC20@0014B02A
-Nah. Ahí ya no hay nada que merezca la pena verse.~00~@00149ABE@00149F08@0014A28C@0014A79C@0014AC20@0014B02A
+Non. Plus rien à voir là-dedans.~00~@00149ABE@00149F08@0014A28C@0014A79C@0014AC20@0014B02A
 ;0000204E{Cool!~00~}@0014A714@0014B456
-¡Mola!~00~@0014A714@0014B456
+Cool !~00~@0014A714@0014B456
 ;00002054{Whew! Old fright face nearly had us!~00~}@00149EC2
-¡Fiu! ¡El viejo cara de susto casi nos tenía!~00~@00149EC2
+Ouf! Le vieux visage effrayé a failli nous avoir!~00~@00149EC2
 ;0000207A{Hmm, looks like he gave up. We're just too smart for him, I guess!~00~}@0014A246
-Mmm, parece que se rindió. ¡Somos demasiado listos para él, supongo!~00~@0014A246
+Hmm, on dirait qu'il a abandonné. Nous sommes trop intelligents pour lui, je suppose !~00~@0014A246
 ;000020BE{He sure looked mad that time!~00~}@0014A572
-¡Esta vez si que parecía enfadado!~00~@0014A572
+Cette fois, il avait vraiment l'air en colère !~00~@0014A572
 ;000020DC{Man, that was close!~00~}@00146074@0014ABDA
-Tío, ¡eso estuvo cerca!~00~@0014ABDA
+Mec, c'était proche !~00~@0014ABDA
 ;000020F1{We finally lost Creepy Joe!~00~}@0014B4F6
-¡Al final hemos perdido a Joe el Siniestro!~00~@0014B4F6
+Nous avons finalement perdu Joe le sinistre !~00~@0014B4F6
 ;0000210D{This probably goes to the kitchen.~00~}@0014B51C
-Seguramente lleve a la cocina.~00~@0014B51C
+Cela va probablement à la cuisine.~00~@0014B51C
 ;00002130{It just wouldn't be the same without Scooby.~00~}@0014B53C@0014CA44
-No sería lo mismo sin Scooby.~00~@0014B53C@0014CA44
+Ce ne serait pas pareil sans Scooby.~00~@0014B53C@0014CA44
 ;0000215D{I got an idea, Scoob. Get over here.~00~}@0014B554
-Tengo una idea, Scoob. Ven aquí.~00~@0014B554
+J'ai une idée, Scoob. Viens ici.~00~@0014B554
 ;00002183{Whew! We lost him, Scooby!~00~}@0014B692@0014B7E2
-¡Fiu! ¡Lo perdimos, Scooby!~00~@0014B692@0014B7E2
+Ouf! Nous l'avons semé, Scooby !~00~@0014B692@0014B7E2
 ;0000219F{Reh! Whew!~00~}@0014B69A@0014B7EA
-¡Reh! ¡Fheu!~00~@0014B69A@0014B7EA
+Reh ! Ouf !~00~@0014B69A@0014B7EA
 ;000021AB{Dumb Waiter~00~}@00146470@00146560
-Montacargas~00~@00146470@00146560
+Monte-charge~00~@00146470@00146560
 ;000021B7{It's locked.~00~}@0014B710
-Está cerrada con llave.~00~@0014B710
+C'est verrouillé.~00~@0014B710
 ;000021C4{The Stairs~00~}@00146480
-Las Escaleras~00~@00146480
+Les Escaliers~00~@00146480
 ;000021CF{Television~00~}@00146488
-Televisión~00~@00146488
+Télévision~00~@00146488
 ;000021DA{I think this is really a coat hanger.~00~}@0014B8A4
-Creo que es un colgador de abrigos.~00~@0014B8A4
+Je pense que c'est vraiment un cintre.~00~@0014B8A4
 ;00002200{That's a little too technical for me.~00~}@0014B8B4
-Es un poco demasiado técnico para mí.~00~@0014B8B4
+C'est un peu trop technique pour moi.~00~@0014B8B4
 ;00002226{I guess I don't really want it after all.~00~}@0014B8E0
-Supongo que en realidad no la quiero después de todo.~00~@0014B8E0
+Je suppose que je n'en ai pas vraiment envie après tout.~00~@0014B8E0
 ;00002250{Antenna~00~}@00146490
-Antena~00~@00146490
+Antenne~00~@00146490
 ;00002258{We used to have one of these hung up in the mystery machine.~00~}@0014B8F6
-Teníamos uno de estos colgado en la Mystery Machine.~00~@0014B8F6
+Nous avions l'habitude d'en avoir un accroché dans la  Mystery Machine.~00~@0014B8F6
 ;00002295{I don't need it right now.~00~}@0014B952
-No lo necesito en este momento.~00~@0014B952
+Je n'en ai pas besoin pour le moment.~00~@0014B952
 ;000022B0{Air Freshener~00~}@00146498
-Ambientador~00~@00146498
+Désodorisant~00~@00146498
 ;000022BE{A drawer is a drawer is a drawer.~00~}@0014BA3E@0014BB1C@0014C17A
-Un cajón es un cajón.~00~@0014BA3E@0014BB1C@0014C17A
+Un tiroir est un tiroir~00~@0014BA3E@0014BB1C@0014C17A
 ;000022E0{Drawer~00~}@001464A8@001464B0@001464E0
-Cajón~00~@001464A8@001464B0@001464E0
+Tiroir~00~@001464A8@001464B0@001464E0
 ;000022E7{Yikes! And this guy is the gardener!~00~}@0014BBFA
-¡Puaj! ¡Y este tío es el jardinero!~00~@0014BBFA
+Aïe ! Et ce gars est le jardinier !~00~@0014BBFA
 ;0000230D{No way! I'll be itching for weeks if I touch that stuff!~00~}@0014BC0A
-¡Ni hablar! ¡Me picará durante semanas si toco eso!~00~@0014BC0A
+Pas question ! Je vais avoir des démangeaisons pendant des semaines si je touche ce genre de choses !~00~@0014BC0A
 ;00002347{Nothing. He can't feel a thing like that.~00~}@0014BD6A
-Nada. No puede sentir algo así.~00~@0014BD6A
+Rien. Il ne peut pas ressentir une chose pareille.~00~@0014BD6A
 ;00002372{No way. We've bothered him enough, I think. Let him sleep.~00~}@0014BD72@0014C47A@0014C502@0014F156@0014F20C
-No. Ya le hemos molestado suficiente, creo. Dejémosle dormir.~00~@0014F156
+Pas question. Nous l'avons assez dérangé, je pense. Laisse le dormir.~00~@0014F156
 ;000023AF{Poison Oak~00~}@001464B8
-Hiedra Venenosa~00~@001464B8
+Sumac vénéneux~00~@001464B8
 ;000023BA{Kinda like a tough slinky.~00~}@0014BDEA
-Un poco como un resorte duro.~00~@0014BDEA
+Un peu comme un ressort dur.~00~@0014BDEA
 ;000023D5{I can't think of anything to do with them right now.~00~}@0014BF1C
-No puedo pensar en nada que hacer con ellos ahora mismo.~00~@0014BF1C
+Je ne vois rien à faire avec eux en ce moment.~00~@0014BF1C
 ;0000240A{Bed Spring~00~}@001464C0
-Muelle de Colchón~00~@001464C0
+Ressort de lit~00~@001464C0
 ;00002415{This book tells how to read some funky writing.~00~}@0014BF32
-Este libro explica como leer alguna escritura rara.~00~@0014BF32
+Ce livre explique comment lire une écriture funky.~00~@0014BF32
 ;00002445{I bet this is the missing book!~00~}@0014BF4A
-¡Apuesto a que es el libro perdido!~00~@0014BF4A
+Je parie que c'est le livre manquant !~00~@0014BF4A
 ;00002465{Boring.~00~}@0014BF52
-Aburrido.~00~@0014BF52
+Ennuyeux.~00~@0014BF52
 ;0000246D{That's where it belongs, but I might need it.~00~}@0014BF92
-Ahí es donde pertenece, pero podría necesitarlo.~00~@0014BF92
+C'est sa place, mais je pourrais en avoir besoin.~00~@0014BF92
 ;0000249B{That's the book! Now let's see here...~00~}@0014BFCE
-¡Ese es el libro! Ahora déjame ver...~00~@0014BFCE
+C'est le livre ! Voyons maintenant ici...~00~@0014BFCE
 ;000024C3{Hmm...~00~}@0014BFDC
 Hmm...~00~@0014BFDC
 ;000024CA{Here we are!~00~}@0014BFE4
-¡Aquí estamos!~00~@0014BFE4
+Voilà !~00~@0014BFE4
 ;000024D7{We have to place a ceremonial goblet in the hands of the statue,~00~}@0014BFEC
-Tenemos que poner la copa ceremonial en las manos de la estatua,~00~@0014BFEC
+Il faut placer une coupe de cérémonie entre les mains de la statue,~00~@0014BFEC
 ;00002518{Then say some magic words, and the medallion will appear.~00~}@0014BFF4
-decir algunas palabras mágicas y aparecerá el medallón.~00~@0014BFF4
+puis prononcer quelques mots magiques et le médaillon apparaîtra.~00~@0014BFF4
 ;00002552{Hrumph, well, we have to use the goblet at any rate.~00~}@0014C002
-Uhm, bueno, tendremos que usar la copa de todos modos.~00~@0014C002
+Uhm, eh bien, nous devons utiliser la coupe de toute façon.~00~@0014C002
 ;00002587{I don't believe in this magic tomfoolery.~00~}@0014C010
-No creo en payasadas mágicas.~00~@0014C010
+Je ne crois pas à cette bêtise magique.~00~@0014C010
 ;000025B1{You wouldn't happen to have an Indian ceremonial goblet by any chance, would you son?~00~}@0014C01E
-No tendrías una copa ceremonial India por casualidad, ¿Verdad hijo?~00~@0014C01E
+Vous n'auriez pas par hasard une coupe de cérémonie indienne, n'est-ce pas ?~00~@0014C01E
 ;00002607{Book~00~}@001464C8
-Libro~00~@001464C8
+Livre~00~@001464C8
 ;0000260C{Pink medicine for your stomach.~00~}@0014C040
 Medicina rosa para tu estómago.~00~@0014C040
 ;0000262C{Wonder if it tastes good?~00~}@00146108@0014C048
