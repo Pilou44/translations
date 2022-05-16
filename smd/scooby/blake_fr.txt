@@ -659,95 +659,95 @@ Ce sont des sortes de perles indiennes, je pense.~00~@0014C6F2
 ;00002922{Here's some beads I found.~00~}@0014C74E
 Voici quelques perles que j'ai trouvées.~00~@0014C74E
 ;0000293D{Many thanks. But what I'm really looking for is a kachina doll.~00~}@0014C774
-Gracias. Pero lo que realmente busco es una muñeca kachina.~00~@0014C774
+Merci beaucoup. Mais ce que je cherche vraiment, c'est une poupée kachina.~00~@0014C774
 ;0000297D{I found one in the woods a few days ago, but I must have dropped it on the way home.~00~}@0014C782
-Encontré una en el bosque hace unos días, pero debió caérseme de vuelta a casa.~00~@0014C782
+J'en ai trouvé une dans les bois il y a quelques jours, mais j'ai dû la faire tomber en rentrant chez moi.~00~@0014C782
 ;000029D2{I could kick myself for that!~00~}@0014C790
-¡Me patearía por ello!~00~@0014C790
+Je pourrais me donner un coup de pied pour ça !~00~@0014C790
 ;000029F0{Beads~00~}@00146520
-Cuentas~00~@00146520
+Perles~00~@00146520
 ;000029F6{Mmm! A meal fit for a king!~00~}@0014C7A6
-¡Mmm! ¡Una comida digna de un rey!~00~@0014C7A6
+Mmm ! Un repas digne d'un roi !~00~@0014C7A6
 ;00002A13{Reh! Reh!~00~}@0014C7AE
-¡Reh! ¡Reh!~00~@0014C7AE
+Reh ! Reh !~00~@0014C7AE
 ;00002A1E{I have to open it, first.~00~}@0014C7EE
-Tengo que abrirlo primero.~00~@0014C7EE
+Je dois d'abord l'ouvrir.~00~@0014C7EE
 ;00002A38{With my bare hands?~00~}@0014C7FE
-¿Con las manos?~00~@0014C7FE
+A mains nues ?~00~@0014C7FE
 ;00002A4C{Chili~00~}@00146528
-Chili~00~@00146528
+Piment~00~@00146528
 ;00002A52{It's empty, but there's still gunk inside.~00~}@0014C814
-Está vacío, pero aún hay algo de mugre dentro.~00~@0014C814
+C'est vide, mais il y a encore de la crasse à l'intérieur.~00~@0014C814
 ;00002A7D{A tasty little treat if I were small enough to get in there.~00~}@0014C81C
-Un placer sabroso si fuera lo suficientemente pequeño.~00~@0014C81C
+Une petite gâterie savoureuse si j'étais assez petit pour y entrer.~00~@0014C81C
 ;00002ABA{The vent is in the way.~00~}@0014C83C
-La cubierta de ventilación está en medio.~00~@0014C83C
+La trappe de ventilation est dans le passage.~00~@0014C83C
 ;00002AD2{That's it, dudes! Dinnertime!~00~}@0014C862
-¡Eso es, tíos! ¡Hora de comer!~00~@0014C862
+C'est ça, les gars ! L'heure du dîner !~00~@0014C862
 ;00002AF1{Empty Chili Can~00~}@00146530
-Lata de Chili Vacia~00~@00146530
+Boîte de piment vide~00~@00146530
 ;00002B01{A chili can with termites inside.~00~}@0014C888
-Una lata de chili con termitas dentro.~00~@0014C888
+Une boîte de piment avec des termites à l'intérieur.~00~@0014C888
 ;00002B23{Free at last!~00~}@0014C8F2
-¡Libre al fin!~00~@0014C8F2
+Enfin libre !~00~@0014C8F2
 ;00002B31{Now, let's go get those rapscallions who put me here!~00~}@0014C900
-Ahora, ¡Vamos por los bribones que me metieron aquí!~00~@0014C900
+Maintenant, allons chercher ces vauriens qui m'ont mis ici !~00~@0014C900
 ;00002B67{Relp! Relp!~00~}@0014C91C
-¡Rayuda! ¡Rayuda!~00~@0014C91C
+Ra l'aide !~00~@0014C91C
 ;00002B73{Zoinks! Scooby's in trouble!~00~}@0014C924
-¡Corcho! ¡Scooby está en peligro!~00~@0014C924
+Mince ! Scooby a des problèmes !~00~@0014C924
 ;00002B91{Hurry then, and let's help him, son!~00~}@0014C932
-Corre entonces, ¡vayamos a ayudarle, hijo!~00~@0014C932
+Dépêche-toi, et aidons-le, fiston !~00~@0014C932
 ;00002BB6{He's gone! What'll we do!~00~}@0014C994
-¡No está! ¡Qué vamos a hacer!~00~@0014C994
+Il est parti! Qu'allons-nous faire !~00~@0014C994
 ;00002BD1{Better start looking for him!~00~}@0014C9A2
-¡Mejor empezar a buscarlo!~00~@0014C9A2
+Mieux vaut commencer à le chercher !~00~@0014C9A2
 ;00002BEF{Me, I have something that needs doing.~00~}@0014C9B0
-Yo... Hay algo que necesito hacer.~00~@0014C9B0
+Moi, j'ai quelque chose à faire.~00~@0014C9B0
 ;00002C16{Termites~00~}@00146538@00146548
-Termitas~00~@00146538@00146548
+Termites~00~@00146538@00146548
 ;00002C1F{Hmm, water, faucet, basin, drain: yup, it's a sink alright.~00~}@0014C9DC
-Uhm, agua, grifo, cuenco, desaguadero: sip, es un fregadero.~00~@0014C9DC
+Hmm, eau, robinet, lavabo, vidange : oui, c'est bien un évier.~00~@0014C9DC
 ;00002C5C{Kitchen Sink~00~}@00146540
-Fregadero de Cocina~00~@00146540
+Évier de cuisine~00~@00146540
 ;00002C69{I once saw a single termite eat a whole croquet ball!~00~}@0014C9F2
-¡Una vez ví una termita comerse una pelota de croquet entera!~00~@0014C9F2
+J'ai vu une fois un seul termite manger une boule de croquet entière !~00~@0014C9F2
 ;00002C9F{You know, I bet I could get this thing off if I had something to unscrew it with.~00~}@0014CA08
-Sabes, apuesto a que podría sacarlo si tuviera algo para desatornillarlo.~00~@0014CA08
+Tu sais, je parie que je pourrais enlever ce truc si j'avais quelque chose pour le dévisser.~00~@0014CA08
 ;00002CF1{Vent Cover~00~}@00146550
-Cubierta de Ventilación~00~@00146550
+Couvercle de ventilation~00~@00146550
 ;00002CFC{It's a dumbwaiter.~00~}@0014CA24
-Es un montacargas.~00~@0014CA24
+C'est un monte-charge.~00~@0014CA24
 ;00002D0F{Hey, Scooby. C'mere.~00~}@0014CA5C
-Eh, Scooby. Ven pacá.~00~@0014CA5C
+Hé, Scooby. Viens ici.~00~@0014CA5C
 ;00002D25{Nah, not raw. That'd be gross.~00~}@0014CB64
-Nah, cruda no. Eso sería asqueroso.~00~@0014CB64
+Nan, pas cru. Ce serait dégoûtant.~00~@0014CB64
 ;00002D45{Hey, there's some light back here!~00~}@0014CB80
-¡Eh, hay algo de luz aquí atrás!~00~@0014CB80
+Hé, il y a de la lumière ici !~00~@0014CB80
 ;00002D68{Ungh! I can't lift it.~00~}@0014CBA2
-¡Ugh! No puedo levantarlo.~00~@0014CBA2
+Oh ! Je ne peux pas le soulever.~00~@0014CBA2
 ;00002D80{It'll fall and bust if I do that. It's too heavy to hold onto.~00~}@0014CBC4
-Se me caerá si hago eso. Es demasiado pesado para sostenerlo.~00~@0014CBC4
+Il va tomber et éclater si je fais ça. C'est trop lourd à tenir.~00~@0014CBC4
 ;00002DC0{Well, well! I think this is the other side of that creepy painting in the lobby!~00~}@0014CC04
-¡Bueno, bueno! ¡creo que esto es el otro lado del retrato siniestro del vestíbulo!~00~@0014CC04
+Bien bien! Je pense que c'est l'autre côté de cette peinture effrayante dans le hall !~00~@0014CC04
 ;00002E12{Flour~00~}@00146568
-Harina~00~@00146568
+Farine~00~@00146568
 ;00002E18{Shh! Listen, scoob!~00~}@0014CC58
-¡Shh! ¡Escucha, Scoob!~00~@0014CC58
+Chut ! Écoute, Scoob !~00~@0014CC58
 ;00002E2D{Did you get Blake?~00~}@000CEB33@0014CC66
-¿Pillaste a Blake?~00~@0014CC66
+Avez-vous eu Blake ?~00~@0014CC66
 ;00002E40{Of course.~00~}@0014CC74@0014CCFE
-Por supuesto.~00~@0014CC74@0014CCFE
+Bien sûr.~00~@0014CC74@0014CCFE
 ;00002E4B{He's in the dungeon.~00~}@0014CC82
-Está en la mazmorra.~00~@0014CC82
+Il est dans le donjon.~00~@0014CC82
 ;00002E60{I don't trust you. I want to see for myself.~00~}@0014CC90
-No me fio de ti. Quiero verlo por mi mismo.~00~@0014CC90
+Je ne te fais pas confiance. Je veux voir par moi-même.~00~@0014CC90
 ;00002E8E{Then see.~00~}@0014CC9E
-Entonces mira.~00~@0014CC9E
+Alors regarde.~00~@0014CC9E
 ;00002E98{Here's the instructions on how to get down there.~00~}@0014CCAC
-Aquí están las instrucciones de cómo llegar allí abajo.~00~@0014CCAC
+Voici les instructions pour y accéder.~00~@0014CCAC
 ;00002ECA{Got it. Now get rid of that before someone sees it.~00~}@0014CCDA
-Lo pillo. Ahora deshazte de eso antes de que alguien lo vea.~00~@0014CCDA
+Compris. Maintenant, débarrassez-vous de ça avant que quelqu'un ne le voie.~00~@0014CCDA
 ;00002EFF{No one will ever see it now!~00~}@0014CD16
 ¡Ahora nadie lo verá!~00~@0014CD16
 ;00002F1C{We have to get that note and find Uncle Blake, Scoob!~00~}@0014CD22
